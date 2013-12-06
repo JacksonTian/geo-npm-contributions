@@ -19,5 +19,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/morganherlocker/geo-npm-contributions/issues"
+  },
+  "dependencies": {
+    "turf": "0.0.73",
+    "lodash": "~2.4.1"
   }
 }
