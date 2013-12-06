@@ -1,0 +1,23 @@
+{
+  "name": "geo-npm-contributions",
+  "version": "0.0.0",
+  "description": "mapping npm modules by geography",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morganherlocker/geo-npm-contributions.git"
+  },
+  "keywords": [
+    "npm",
+    "gis",
+    "geo"
+  ],
+  "author": "morganherlocker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morganherlocker/geo-npm-contributions/issues"
+  }
+}

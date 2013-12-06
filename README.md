@@ -1,4 +1,4 @@
 geo-npm-contributions
 =====================
 
-mapping npm contributions by geography
+mapping npm modules by geography
