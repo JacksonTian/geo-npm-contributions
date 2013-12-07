@@ -1,0 +1,754 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 146, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BUENOS AIRES", "COUNTRY": "ARGENTINA", "ADDTLPLACE": "AEROPARQUE JORGE NEWBERY", "AIRPORTCOD": "AEP", "XCOORD": -58.41667, "YCOORD": -34.56667, "val": 76, "city": "Buenos Aires, AR", "modules": "76" }, "geometry": { "type": "Point", "coordinates": [ -58.41667, -34.56667 ] } }
+,
+{ "type": "Feature", "id": 147, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BUENOS AIRES", "COUNTRY": "ARGENTINA", "ADDTLPLACE": "METROPOLITAN AREA", "AIRPORTCOD": "BUE", "XCOORD": -58.65, "YCOORD": -34.68333, "val": 76, "city": "Buenos Aires, AR", "modules": "76" }, "geometry": { "type": "Point", "coordinates": [ -58.65, -34.68333 ] } }
+,
+{ "type": "Feature", "id": 148, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BUENOS AIRES", "COUNTRY": "ARGENTINA", "ADDTLPLACE": "AEROPUERTO INTERNACIONAL EZEIZA\/MINISTRO PISTARINI", "AIRPORTCOD": "EZE", "XCOORD": -58.53333, "YCOORD": -34.83333, "val": 76, "city": "Buenos Aires, AR", "modules": "76" }, "geometry": { "type": "Point", "coordinates": [ -58.53333, -34.83333 ] } }
+,
+{ "type": "Feature", "id": 239, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SAN RAFAEL", "COUNTRY": "ARGENTINA", "ADDTLPLACE": "SAN RAFAEL AIRPORT", "AIRPORTCOD": "AFA", "XCOORD": -68.4, "YCOORD": -34.58333, "val": 138, "city": "San Rafael, CA, US", "modules": "138" }, "geometry": { "type": "Point", "coordinates": [ -68.4, -34.58333 ] } }
+,
+{ "type": "Feature", "id": 336, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BRISBANE", "COUNTRY": "AUSTRALIA", "ADDTLPLACE": "BRISBANE INTL ARPT", "AIRPORTCOD": "BNE", "XCOORD": 153.08333, "YCOORD": -27.41667, "val": 232, "city": "Brisbane, AU", "modules": "232" }, "geometry": { "type": "Point", "coordinates": [ 153.08333, -27.41667 ] } }
+,
+{ "type": "Feature", "id": 353, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CANBERRA", "COUNTRY": "AUSTRALIA", "ADDTLPLACE": "CANBERRA (CIV\/MIL)", "AIRPORTCOD": "CBR", "XCOORD": 149.2, "YCOORD": -35.31667, "val": 20, "city": "Canberra, AU", "modules": "20" }, "geometry": { "type": "Point", "coordinates": [ 149.2, -35.31667 ] } }
+,
+{ "type": "Feature", "id": 606, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MELBOURNE", "COUNTRY": "AUSTRALIA", "ADDTLPLACE": "TULLAMARINE INTERNATIONAL AIRPORT", "AIRPORTCOD": "MEL", "XCOORD": 144.83333, "YCOORD": -37.66667, "val": 254, "city": "Melbourne, AU", "modules": "254" }, "geometry": { "type": "Point", "coordinates": [ 144.83333, -37.66667 ] } }
+,
+{ "type": "Feature", "id": 607, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MELBOURNE", "COUNTRY": "AUSTRALIA", "ADDTLPLACE": "MOORABBIN", "AIRPORTCOD": "MBW", "XCOORD": 145.1, "YCOORD": -37.96667, "val": 254, "city": "Melbourne, AU", "modules": "254" }, "geometry": { "type": "Point", "coordinates": [ 145.1, -37.96667 ] } }
+,
+{ "type": "Feature", "id": 608, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MELBOURNE", "COUNTRY": "AUSTRALIA", "ADDTLPLACE": "ESSENDON AIRPORT", "AIRPORTCOD": "MEB", "XCOORD": 144.9, "YCOORD": -37.73333, "val": 254, "city": "Melbourne, AU", "modules": "254" }, "geometry": { "type": "Point", "coordinates": [ 144.9, -37.73333 ] } }
+,
+{ "type": "Feature", "id": 668, "properties": { "LAYER": "Unknown Point Feature", "NAME": "NEWCASTLE", "COUNTRY": "AUSTRALIA", "ADDTLPLACE": "WILLIAMTOWN AIRPORT", "AIRPORTCOD": "NTL", "XCOORD": 151.83333, "YCOORD": -32.8, "val": 50, "city": "Newcastle, AU", "modules": "50" }, "geometry": { "type": "Point", "coordinates": [ 151.83333, -32.8 ] } }
+,
+{ "type": "Feature", "id": 709, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PORTLAND", "COUNTRY": "AUSTRALIA", "ADDTLPLACE": null, "AIRPORTCOD": "PTJ", "XCOORD": 141.63333, "YCOORD": -38.38333, "val": 208, "city": "Portland, OR, US", "modules": "208" }, "geometry": { "type": "Point", "coordinates": [ 141.63333, -38.38333 ] } }
+,
+{ "type": "Feature", "id": 768, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SYDNEY", "COUNTRY": "AUSTRALIA", "ADDTLPLACE": "KINGSFORD SMITH", "AIRPORTCOD": "SYD", "XCOORD": 151.18333, "YCOORD": -33.95, "val": 435, "city": "Sydney, AU", "modules": "435" }, "geometry": { "type": "Point", "coordinates": [ 151.18333, -33.95 ] } }
+,
+{ "type": "Feature", "id": 856, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LINZ", "COUNTRY": "AUSTRIA", "ADDTLPLACE": "HORSCHING", "AIRPORTCOD": "LNZ", "XCOORD": 14.2, "YCOORD": 48.23333, "val": 24, "city": "Linz, AT", "modules": "24" }, "geometry": { "type": "Point", "coordinates": [ 14.2, 48.23333 ] } }
+,
+{ "type": "Feature", "id": 1001, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SAN JOSE", "COUNTRY": "BOLIVIA", "ADDTLPLACE": null, "AIRPORTCOD": "SJS", "XCOORD": -60.75, "YCOORD": -17.81667, "val": 16, "city": "San Jose, CA, US", "modules": "16" }, "geometry": { "type": "Point", "coordinates": [ -60.75, -17.81667 ] } }
+,
+{ "type": "Feature", "id": 1019, "properties": { "LAYER": "Unknown Point Feature", "NAME": "GABORONE", "COUNTRY": "BOTSWANA", "ADDTLPLACE": "SIR SERETSE KHAMA INTERNATIONAL", "AIRPORTCOD": "GBE", "XCOORD": 25.91667, "YCOORD": -24.55, "val": 104, "city": "Gaborone, BW", "modules": "104" }, "geometry": { "type": "Point", "coordinates": [ 25.91667, -24.55 ] } }
+,
+{ "type": "Feature", "id": 1251, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PORTO ALEGRE", "COUNTRY": "BRAZIL", "ADDTLPLACE": "SALGADO FILHO", "AIRPORTCOD": "POA", "XCOORD": -51.16667, "YCOORD": -30.0, "val": 21, "city": "Porto Alegre, BR", "modules": "21" }, "geometry": { "type": "Point", "coordinates": [ -51.16667, -30.0 ] } }
+,
+{ "type": "Feature", "id": 1346, "properties": { "LAYER": "Unknown Point Feature", "NAME": "VARNA", "COUNTRY": "BULGARIA", "ADDTLPLACE": null, "AIRPORTCOD": "VAR", "XCOORD": 27.81667, "YCOORD": 43.23333, "val": 76, "city": "Varna, BG", "modules": "76" }, "geometry": { "type": "Point", "coordinates": [ 27.81667, 43.23333 ] } }
+,
+{ "type": "Feature", "id": 1388, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DSCHANG", "COUNTRY": "CAMEROON", "ADDTLPLACE": null, "AIRPORTCOD": "DSC", "XCOORD": 10.06667, "YCOORD": 5.45, "val": 44, "city": "Dschang, CM", "modules": "44" }, "geometry": { "type": "Point", "coordinates": [ 10.06667, 5.45 ] } }
+,
+{ "type": "Feature", "id": 1864, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LONDON", "COUNTRY": "CANADA", "ADDTLPLACE": "LONDON AIRPORT", "AIRPORTCOD": "YXU", "XCOORD": -81.15, "YCOORD": 43.03333, "val": 511, "city": "London, ENG, GB", "modules": "511" }, "geometry": { "type": "Point", "coordinates": [ -81.15, 43.03333 ] } }
+,
+{ "type": "Feature", "id": 1967, "properties": { "LAYER": "Unknown Point Feature", "NAME": "OTTAWA", "COUNTRY": "CANADA", "ADDTLPLACE": "MACDONALD-CARTIER INTERNATIONAL", "AIRPORTCOD": "YOW", "XCOORD": -75.66667, "YCOORD": 45.31667, "val": 64, "city": "Ottawa, CA", "modules": "64" }, "geometry": { "type": "Point", "coordinates": [ -75.66667, 45.31667 ] } }
+,
+{ "type": "Feature", "id": 2118, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SHERBROOKE", "COUNTRY": "CANADA", "ADDTLPLACE": "SHERBROOKE AIRPORT", "AIRPORTCOD": "YSC", "XCOORD": -71.68333, "YCOORD": 45.43333, "val": 19, "city": "Sherbrooke, CA", "modules": "19" }, "geometry": { "type": "Point", "coordinates": [ -71.68333, 45.43333 ] } }
+,
+{ "type": "Feature", "id": 2119, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SHERBROOKE", "COUNTRY": "CANADA", "ADDTLPLACE": null, "AIRPORTCOD": "WSC", "XCOORD": -71.88333, "YCOORD": 45.4, "val": 19, "city": "Sherbrooke, CA", "modules": "19" }, "geometry": { "type": "Point", "coordinates": [ -71.88333, 45.4 ] } }
+,
+{ "type": "Feature", "id": 2170, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SYDNEY", "COUNTRY": "CANADA", "ADDTLPLACE": "SYDNEY AIRPORT", "AIRPORTCOD": "YQY", "XCOORD": -60.05, "YCOORD": 46.16667, "val": 435, "city": "Sydney, AU", "modules": "435" }, "geometry": { "type": "Point", "coordinates": [ -60.05, 46.16667 ] } }
+,
+{ "type": "Feature", "id": 2192, "properties": { "LAYER": "Unknown Point Feature", "NAME": "TORONTO", "COUNTRY": "CANADA", "ADDTLPLACE": "METROPOLITAN AREA", "AIRPORTCOD": "YTO", "XCOORD": -79.46667, "YCOORD": 43.78333, "val": 58, "city": "Toronto, CA", "modules": "58" }, "geometry": { "type": "Point", "coordinates": [ -79.46667, 43.78333 ] } }
+,
+{ "type": "Feature", "id": 2193, "properties": { "LAYER": "Unknown Point Feature", "NAME": "TORONTO", "COUNTRY": "CANADA", "ADDTLPLACE": "BUTTONVILLE AIRFIELD", "AIRPORTCOD": "YKZ", "XCOORD": -79.36667, "YCOORD": 43.86667, "val": 58, "city": "Toronto, CA", "modules": "58" }, "geometry": { "type": "Point", "coordinates": [ -79.36667, 43.86667 ] } }
+,
+{ "type": "Feature", "id": 2194, "properties": { "LAYER": "Unknown Point Feature", "NAME": "TORONTO", "COUNTRY": "CANADA", "ADDTLPLACE": "TORONTO ISLAND AIRPORT", "AIRPORTCOD": "YTZ", "XCOORD": -79.4, "YCOORD": 43.63333, "val": 58, "city": "Toronto, CA", "modules": "58" }, "geometry": { "type": "Point", "coordinates": [ -79.4, 43.63333 ] } }
+,
+{ "type": "Feature", "id": 2195, "properties": { "LAYER": "Unknown Point Feature", "NAME": "TORONTO", "COUNTRY": "CANADA", "ADDTLPLACE": "LESTER B. PEARSON INTERNATIONAL", "AIRPORTCOD": "YYZ", "XCOORD": -79.63333, "YCOORD": 43.68333, "val": 58, "city": "Toronto, CA", "modules": "58" }, "geometry": { "type": "Point", "coordinates": [ -79.63333, 43.68333 ] } }
+,
+{ "type": "Feature", "id": 2215, "properties": { "LAYER": "Unknown Point Feature", "NAME": "VANCOUVER", "COUNTRY": "CANADA", "ADDTLPLACE": "VANCOUVER INTL ARPT", "AIRPORTCOD": "YVR", "XCOORD": -123.18333, "YCOORD": 49.18333, "val": 217, "city": "Vancouver, CA", "modules": "217" }, "geometry": { "type": "Point", "coordinates": [ -123.18333, 49.18333 ] } }
+,
+{ "type": "Feature", "id": 2216, "properties": { "LAYER": "Unknown Point Feature", "NAME": "VANCOUVER", "COUNTRY": "CANADA", "ADDTLPLACE": "BELLA COOLA ARPT", "AIRPORTCOD": "YBD", "XCOORD": -126.58333, "YCOORD": 52.38333, "val": 217, "city": "Vancouver, CA", "modules": "217" }, "geometry": { "type": "Point", "coordinates": [ -126.58333, 52.38333 ] } }
+,
+{ "type": "Feature", "id": 2371, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LOS ANGELES", "COUNTRY": "CHILE", "ADDTLPLACE": "MARIA DOLORES", "AIRPORTCOD": "LSQ", "XCOORD": -72.41667, "YCOORD": -37.4, "val": 73, "city": "Los Angeles, CA, US", "modules": "73" }, "geometry": { "type": "Point", "coordinates": [ -72.41667, -37.4 ] } }
+,
+{ "type": "Feature", "id": 2400, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BEIJING", "COUNTRY": "CHINA", "ADDTLPLACE": "CAPITAL", "AIRPORTCOD": "PEK", "XCOORD": 116.6, "YCOORD": 40.06667, "val": 52, "city": "Beijing, CN", "modules": "52" }, "geometry": { "type": "Point", "coordinates": [ 116.6, 40.06667 ] } }
+,
+{ "type": "Feature", "id": 2401, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BEIJING", "COUNTRY": "CHINA", "ADDTLPLACE": null, "AIRPORTCOD": "BJS", "XCOORD": 116.6, "YCOORD": 40.06667, "val": 52, "city": "Beijing, CN", "modules": "52" }, "geometry": { "type": "Point", "coordinates": [ 116.6, 40.06667 ] } }
+,
+{ "type": "Feature", "id": 2402, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BEIJING", "COUNTRY": "CHINA", "ADDTLPLACE": null, "AIRPORTCOD": "BEJ", "XCOORD": 116.6, "YCOORD": 40.06667, "val": 52, "city": "Beijing, CN", "modules": "52" }, "geometry": { "type": "Point", "coordinates": [ 116.6, 40.06667 ] } }
+,
+{ "type": "Feature", "id": 2424, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HANGZHOU", "COUNTRY": "CHINA", "ADDTLPLACE": "JIANQIAO", "AIRPORTCOD": "HGH", "XCOORD": 120.16667, "YCOORD": 30.23333, "val": 439, "city": "Hangzhou, CN", "modules": "439" }, "geometry": { "type": "Point", "coordinates": [ 120.16667, 30.23333 ] } }
+,
+{ "type": "Feature", "id": 2444, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SHANGHAI", "COUNTRY": "CHINA", "ADDTLPLACE": "HONGQIAO", "AIRPORTCOD": "SHA", "XCOORD": 121.43333, "YCOORD": 31.2, "val": 36, "city": "Shanghai, CN", "modules": "36" }, "geometry": { "type": "Point", "coordinates": [ 121.43333, 31.2 ] } }
+,
+{ "type": "Feature", "id": 2631, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BUENOS AIRES", "COUNTRY": "COSTA RICA", "ADDTLPLACE": null, "AIRPORTCOD": "BAI", "XCOORD": -83.33333, "YCOORD": 9.16667, "val": 76, "city": "Buenos Aires, AR", "modules": "76" }, "geometry": { "type": "Point", "coordinates": [ -83.33333, 9.16667 ] } }
+,
+{ "type": "Feature", "id": 2644, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SAN JOSE", "COUNTRY": "COSTA RICA", "ADDTLPLACE": "JUAN SANTAMARIA INTERNATIONAL", "AIRPORTCOD": "SJO", "XCOORD": -84.21667, "YCOORD": 10.0, "val": 16, "city": "San Jose, CA, US", "modules": "16" }, "geometry": { "type": "Point", "coordinates": [ -84.21667, 10.0 ] } }
+,
+{ "type": "Feature", "id": 2700, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SANTA CLARA", "COUNTRY": "CUBA", "ADDTLPLACE": null, "AIRPORTCOD": "SNU", "XCOORD": -79.95, "YCOORD": 22.5, "val": 52, "city": "Santa Clara, CA, US", "modules": "52" }, "geometry": { "type": "Point", "coordinates": [ -79.95, 22.5 ] } }
+,
+{ "type": "Feature", "id": 2832, "properties": { "LAYER": "Unknown Point Feature", "NAME": "TALLINN", "COUNTRY": "ESTONIA", "ADDTLPLACE": "YULEMISTE", "AIRPORTCOD": "TLL", "XCOORD": 24.81667, "YCOORD": 59.41667, "val": 20, "city": "Tallinn, EE", "modules": "20" }, "geometry": { "type": "Point", "coordinates": [ 24.81667, 59.41667 ] } }
+,
+{ "type": "Feature", "id": 2903, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HELSINKI", "COUNTRY": "FINLAND", "ADDTLPLACE": "MALMI", "AIRPORTCOD": "HEM", "XCOORD": 25.05, "YCOORD": 60.25, "val": 20, "city": "Helsinki, FI", "modules": "20" }, "geometry": { "type": "Point", "coordinates": [ 25.05, 60.25 ] } }
+,
+{ "type": "Feature", "id": 2904, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HELSINKI", "COUNTRY": "FINLAND", "ADDTLPLACE": "VANTAA", "AIRPORTCOD": "HEL", "XCOORD": 24.96667, "YCOORD": 60.31667, "val": 20, "city": "Helsinki, FI", "modules": "20" }, "geometry": { "type": "Point", "coordinates": [ 24.96667, 60.31667 ] } }
+,
+{ "type": "Feature", "id": 2963, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BORDEAUX", "COUNTRY": "FRANCE", "ADDTLPLACE": "MERIGNAC", "AIRPORTCOD": "BOD", "XCOORD": -0.71667, "YCOORD": 44.83333, "val": 20, "city": "Bordeaux, FR", "modules": "20" }, "geometry": { "type": "Point", "coordinates": [ -0.71667, 44.83333 ] } }
+,
+{ "type": "Feature", "id": 3009, "properties": { "LAYER": "Unknown Point Feature", "NAME": "GRENOBLE", "COUNTRY": "FRANCE", "ADDTLPLACE": "SAINT GEOIRS", "AIRPORTCOD": "GNB", "XCOORD": 5.33333, "YCOORD": 45.36667, "val": 18, "city": "Grenoble, FR", "modules": "18" }, "geometry": { "type": "Point", "coordinates": [ 5.33333, 45.36667 ] } }
+,
+{ "type": "Feature", "id": 3051, "properties": { "LAYER": "Unknown Point Feature", "NAME": "NANTES", "COUNTRY": "FRANCE", "ADDTLPLACE": "CHATEAU BOUGON", "AIRPORTCOD": "NTE", "XCOORD": -1.6, "YCOORD": 47.15, "val": 40, "city": "Nantes, FR", "modules": "40" }, "geometry": { "type": "Point", "coordinates": [ -1.6, 47.15 ] } }
+,
+{ "type": "Feature", "id": 3060, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PARIS", "COUNTRY": "FRANCE", "ADDTLPLACE": "METROPOLIAN AREA", "AIRPORTCOD": "PAR", "XCOORD": 2.33333, "YCOORD": 48.83333, "val": 83, "city": "Paris, FR", "modules": "83" }, "geometry": { "type": "Point", "coordinates": [ 2.33333, 48.83333 ] } }
+,
+{ "type": "Feature", "id": 3061, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PARIS", "COUNTRY": "FRANCE", "ADDTLPLACE": "ORLY", "AIRPORTCOD": "ORY", "XCOORD": 2.38333, "YCOORD": 48.71667, "val": 83, "city": "Paris, FR", "modules": "83" }, "geometry": { "type": "Point", "coordinates": [ 2.38333, 48.71667 ] } }
+,
+{ "type": "Feature", "id": 3062, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PARIS", "COUNTRY": "FRANCE", "ADDTLPLACE": "LE BOURGET", "AIRPORTCOD": "LBG", "XCOORD": 2.45, "YCOORD": 48.96667, "val": 83, "city": "Paris, FR", "modules": "83" }, "geometry": { "type": "Point", "coordinates": [ 2.45, 48.96667 ] } }
+,
+{ "type": "Feature", "id": 3063, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PARIS", "COUNTRY": "FRANCE", "ADDTLPLACE": "CHARLES-DE-GAULLE", "AIRPORTCOD": "CDG", "XCOORD": 2.55, "YCOORD": 49.01667, "val": 83, "city": "Paris, FR", "modules": "83" }, "geometry": { "type": "Point", "coordinates": [ 2.55, 49.01667 ] } }
+,
+{ "type": "Feature", "id": 3139, "properties": { "LAYER": "Unknown Point Feature", "NAME": "FRANCEVILLE", "COUNTRY": "GABON", "ADDTLPLACE": "M'VENGUE", "AIRPORTCOD": "MVB", "XCOORD": 13.43333, "YCOORD": -1.65, "val": 16, "city": "Franceville, GA", "modules": "16" }, "geometry": { "type": "Point", "coordinates": [ 13.43333, -1.65 ] } }
+,
+{ "type": "Feature", "id": 3202, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BERLIN", "COUNTRY": "GERMANY", "ADDTLPLACE": "TEMPELHOF", "AIRPORTCOD": "THF", "XCOORD": 13.4, "YCOORD": 52.46667, "val": 216, "city": "Berlin, DE", "modules": "216" }, "geometry": { "type": "Point", "coordinates": [ 13.4, 52.46667 ] } }
+,
+{ "type": "Feature", "id": 3203, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BERLIN", "COUNTRY": "GERMANY", "ADDTLPLACE": "TEGEL", "AIRPORTCOD": "TXL", "XCOORD": 13.28333, "YCOORD": 52.56667, "val": 216, "city": "Berlin, DE", "modules": "216" }, "geometry": { "type": "Point", "coordinates": [ 13.28333, 52.56667 ] } }
+,
+{ "type": "Feature", "id": 3204, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BERLIN", "COUNTRY": "GERMANY", "ADDTLPLACE": "SCHOENEFELD", "AIRPORTCOD": "SXF", "XCOORD": 13.51667, "YCOORD": 52.38333, "val": 216, "city": "Berlin, DE", "modules": "216" }, "geometry": { "type": "Point", "coordinates": [ 13.51667, 52.38333 ] } }
+,
+{ "type": "Feature", "id": 3209, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BOCHUM", "COUNTRY": "GERMANY", "ADDTLPLACE": null, "AIRPORTCOD": "QBO", "XCOORD": 7.21667, "YCOORD": 51.46667, "val": 16, "city": "Bochum, DE", "modules": "16" }, "geometry": { "type": "Point", "coordinates": [ 7.21667, 51.46667 ] } }
+,
+{ "type": "Feature", "id": 3263, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HAMBURG", "COUNTRY": "GERMANY", "ADDTLPLACE": "FUHLSBUTTEL", "AIRPORTCOD": "HAM", "XCOORD": 9.98333, "YCOORD": 53.63333, "val": 75, "city": "Hamburg, DE", "modules": "75" }, "geometry": { "type": "Point", "coordinates": [ 9.98333, 53.63333 ] } }
+,
+{ "type": "Feature", "id": 3264, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HAMBURG", "COUNTRY": "GERMANY", "ADDTLPLACE": "FINKERWERDEN (AIRBUS PLANT)", "AIRPORTCOD": "XFW", "XCOORD": 9.83333, "YCOORD": 53.53333, "val": 75, "city": "Hamburg, DE", "modules": "75" }, "geometry": { "type": "Point", "coordinates": [ 9.83333, 53.53333 ] } }
+,
+{ "type": "Feature", "id": 3296, "properties": { "LAYER": "Unknown Point Feature", "NAME": "KIEL", "COUNTRY": "GERMANY", "ADDTLPLACE": "HOLTENAU", "AIRPORTCOD": "KEL", "XCOORD": 10.15, "YCOORD": 54.38333, "val": 62, "city": "Kiel, DE", "modules": "62" }, "geometry": { "type": "Point", "coordinates": [ 10.15, 54.38333 ] } }
+,
+{ "type": "Feature", "id": 3615, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HONG KONG", "COUNTRY": "HONG KONG", "ADDTLPLACE": "KAI-TAK INTERNATIONAL AIRPORT", "AIRPORTCOD": "HKG", "XCOORD": 114.2, "YCOORD": 22.31667, "val": 18, "city": "Hong Kong, HK", "modules": "18" }, "geometry": { "type": "Point", "coordinates": [ 114.2, 22.31667 ] } }
+,
+{ "type": "Feature", "id": 4012, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DUBLIN", "COUNTRY": "IRELAND", "ADDTLPLACE": "DUBLIN AIRPORT", "AIRPORTCOD": "DUB", "XCOORD": -6.25, "YCOORD": 53.43333, "val": 38, "city": "Dublin, L, IE", "modules": "38" }, "geometry": { "type": "Point", "coordinates": [ -6.25, 53.43333 ] } }
+,
+{ "type": "Feature", "id": 4031, "properties": { "LAYER": "Unknown Point Feature", "NAME": "TEL AVIV", "COUNTRY": "ISRAEL", "ADDTLPLACE": "BEN GURION", "AIRPORTCOD": "TLV", "XCOORD": 34.88333, "YCOORD": 32.01667, "val": 19, "city": "Tel Aviv, IL", "modules": "19" }, "geometry": { "type": "Point", "coordinates": [ 34.88333, 32.01667 ] } }
+,
+{ "type": "Feature", "id": 4330, "properties": { "LAYER": "Unknown Point Feature", "NAME": "TOKYO", "COUNTRY": "JAPAN", "ADDTLPLACE": "HANEDA", "AIRPORTCOD": "HND", "XCOORD": 139.76667, "YCOORD": 35.55, "val": 15, "city": "Tokyo, JP", "modules": "15" }, "geometry": { "type": "Point", "coordinates": [ 139.76667, 35.55 ] } }
+,
+{ "type": "Feature", "id": 4331, "properties": { "LAYER": "Unknown Point Feature", "NAME": "TOKYO", "COUNTRY": "JAPAN", "ADDTLPLACE": "NARITA", "AIRPORTCOD": "NRT", "XCOORD": 140.38333, "YCOORD": 35.76667, "val": 15, "city": "Tokyo, JP", "modules": "15" }, "geometry": { "type": "Point", "coordinates": [ 140.38333, 35.76667 ] } }
+,
+{ "type": "Feature", "id": 4332, "properties": { "LAYER": "Unknown Point Feature", "NAME": "TOKYO", "COUNTRY": "JAPAN", "ADDTLPLACE": "METROPOLITAN AREA", "AIRPORTCOD": "TYO", "XCOORD": 139.76667, "YCOORD": 35.68333, "val": 15, "city": "Tokyo, JP", "modules": "15" }, "geometry": { "type": "Point", "coordinates": [ 139.76667, 35.68333 ] } }
+,
+{ "type": "Feature", "id": 4428, "properties": { "LAYER": "Unknown Point Feature", "NAME": "RIGA", "COUNTRY": "LATVIA", "ADDTLPLACE": "SPILVE", "AIRPORTCOD": "RIX", "XCOORD": 24.23333, "YCOORD": 56.88333, "val": 64, "city": "Riga, LV", "modules": "64" }, "geometry": { "type": "Point", "coordinates": [ 24.23333, 56.88333 ] } }
+,
+{ "type": "Feature", "id": 4454, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SKOPJE", "COUNTRY": "MACEDONIA", "ADDTLPLACE": "PETROVAC", "AIRPORTCOD": "SKP", "XCOORD": 1.63333, "YCOORD": 41.96667, "val": 56, "city": "Skopje, MK", "modules": "56" }, "geometry": { "type": "Point", "coordinates": [ 1.63333, 41.96667 ] } }
+,
+{ "type": "Feature", "id": 4938, "properties": { "LAYER": "Unknown Point Feature", "NAME": "AMSTERDAM", "COUNTRY": "NETHERLANDS", "ADDTLPLACE": "SCHIPHOL", "AIRPORTCOD": "SPL", "XCOORD": 4.76667, "YCOORD": 52.3, "val": 53, "city": "Amsterdam, NL", "modules": "53" }, "geometry": { "type": "Point", "coordinates": [ 4.76667, 52.3 ] } }
+,
+{ "type": "Feature", "id": 4998, "properties": { "LAYER": "Unknown Point Feature", "NAME": "AUCKLAND", "COUNTRY": "NEW ZEALAND", "ADDTLPLACE": "INTERNATIONAL", "AIRPORTCOD": "AKL", "XCOORD": 174.78333, "YCOORD": -37.01667, "val": 13, "city": "Auckland, NZ", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ 174.78333, -37.01667 ] } }
+,
+{ "type": "Feature", "id": 4999, "properties": { "LAYER": "Unknown Point Feature", "NAME": "AUCKLAND", "COUNTRY": "NEW ZEALAND", "ADDTLPLACE": "MECHANICS BAY SEAPLANE BASE", "AIRPORTCOD": "MHB", "XCOORD": 174.78333, "YCOORD": -36.85, "val": 13, "city": "Auckland, NZ", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ 174.78333, -36.85 ] } }
+,
+{ "type": "Feature", "id": 5047, "properties": { "LAYER": "Unknown Point Feature", "NAME": "WELLINGTON", "COUNTRY": "NEW ZEALAND", "ADDTLPLACE": "INTERNATIONAL", "AIRPORTCOD": "WLG", "XCOORD": 174.8, "YCOORD": -41.31667, "val": 115, "city": "Wellington, NZ", "modules": "115" }, "geometry": { "type": "Point", "coordinates": [ 174.8, -41.31667 ] } }
+,
+{ "type": "Feature", "id": 5108, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BERGEN", "COUNTRY": "NORWAY", "ADDTLPLACE": "FLESLAND", "AIRPORTCOD": "BGO", "XCOORD": 5.21667, "YCOORD": 60.3, "val": 36, "city": "Bergen, NO", "modules": "36" }, "geometry": { "type": "Point", "coordinates": [ 5.21667, 60.3 ] } }
+,
+{ "type": "Feature", "id": 5147, "properties": { "LAYER": "Unknown Point Feature", "NAME": "OSLO", "COUNTRY": "NORWAY", "ADDTLPLACE": "FORNEBU", "AIRPORTCOD": "FBU", "XCOORD": 10.61667, "YCOORD": 59.9, "val": 144, "city": "Oslo, NO", "modules": "144" }, "geometry": { "type": "Point", "coordinates": [ 10.61667, 59.9 ] } }
+,
+{ "type": "Feature", "id": 5148, "properties": { "LAYER": "Unknown Point Feature", "NAME": "OSLO", "COUNTRY": "NORWAY", "ADDTLPLACE": "GARDERMOEN", "AIRPORTCOD": "GEN", "XCOORD": 11.08333, "YCOORD": 60.2, "val": 144, "city": "Oslo, NO", "modules": "144" }, "geometry": { "type": "Point", "coordinates": [ 11.08333, 60.2 ] } }
+,
+{ "type": "Feature", "id": 5149, "properties": { "LAYER": "Unknown Point Feature", "NAME": "OSLO", "COUNTRY": "NORWAY", "ADDTLPLACE": "METROPOLITAN AREA", "AIRPORTCOD": "OSL", "XCOORD": 10.61667, "YCOORD": 59.9, "val": 144, "city": "Oslo, NO", "modules": "144" }, "geometry": { "type": "Point", "coordinates": [ 10.61667, 59.9 ] } }
+,
+{ "type": "Feature", "id": 5167, "properties": { "LAYER": "Unknown Point Feature", "NAME": "TRONDHEIM", "COUNTRY": "NORWAY", "ADDTLPLACE": "VAERNES", "AIRPORTCOD": "TRD", "XCOORD": 10.95, "YCOORD": 63.46667, "val": 55, "city": "Trondheim, NO", "modules": "55" }, "geometry": { "type": "Point", "coordinates": [ 10.95, 63.46667 ] } }
+,
+{ "type": "Feature", "id": 5502, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MANILA", "COUNTRY": "PHILIPPINES", "ADDTLPLACE": "NINOY AQUINO INTERNATIONAL", "AIRPORTCOD": "MNL", "XCOORD": 121.01667, "YCOORD": 14.51667, "val": 56, "city": "Manila, NCR, PH", "modules": "56" }, "geometry": { "type": "Point", "coordinates": [ 121.01667, 14.51667 ] } }
+,
+{ "type": "Feature", "id": 5515, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SAN JOSE", "COUNTRY": "PHILIPPINES", "ADDTLPLACE": "SAN JOSE\/MINDORO IL", "AIRPORTCOD": "SJI", "XCOORD": 121.03333, "YCOORD": 12.36667, "val": 16, "city": "San Jose, CA, US", "modules": "16" }, "geometry": { "type": "Point", "coordinates": [ 121.03333, 12.36667 ] } }
+,
+{ "type": "Feature", "id": 5660, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MOSCOW", "COUNTRY": "RUSSIA", "ADDTLPLACE": "VNUKOVO", "AIRPORTCOD": "VKO", "XCOORD": 37.26667, "YCOORD": 55.65, "val": 84, "city": "Moscow, RU", "modules": "84" }, "geometry": { "type": "Point", "coordinates": [ 37.26667, 55.65 ] } }
+,
+{ "type": "Feature", "id": 5661, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MOSCOW", "COUNTRY": "RUSSIA", "ADDTLPLACE": "SHEREMETYEVO 2", "AIRPORTCOD": "SVO", "XCOORD": 37.5, "YCOORD": 55.98333, "val": 84, "city": "Moscow, RU", "modules": "84" }, "geometry": { "type": "Point", "coordinates": [ 37.5, 55.98333 ] } }
+,
+{ "type": "Feature", "id": 5662, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MOSCOW", "COUNTRY": "RUSSIA", "ADDTLPLACE": null, "AIRPORTCOD": "WUR", "XCOORD": 37.41667, "YCOORD": 55.96667, "val": 84, "city": "Moscow, RU", "modules": "84" }, "geometry": { "type": "Point", "coordinates": [ 37.41667, 55.96667 ] } }
+,
+{ "type": "Feature", "id": 5668, "properties": { "LAYER": "Unknown Point Feature", "NAME": "NOVOSIBIRSK", "COUNTRY": "RUSSIA", "ADDTLPLACE": "TOLMACHEVO", "AIRPORTCOD": "OVB", "XCOORD": 82.9, "YCOORD": 55.01667, "val": 21, "city": "Novosibirsk, RU", "modules": "21" }, "geometry": { "type": "Point", "coordinates": [ 82.9, 55.01667 ] } }
+,
+{ "type": "Feature", "id": 5706, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PORTO ALEGRE", "COUNTRY": "SAO TOME AND PRINCIPE", "ADDTLPLACE": null, "AIRPORTCOD": "PGP", "XCOORD": 6.53333, "YCOORD": 0.03333, "val": 21, "city": "Porto Alegre, BR", "modules": "21" }, "geometry": { "type": "Point", "coordinates": [ 6.53333, 0.03333 ] } }
+,
+{ "type": "Feature", "id": 5920, "properties": { "LAYER": "Unknown Point Feature", "NAME": "NEWCASTLE", "COUNTRY": "SOUTH AFRICA", "ADDTLPLACE": null, "AIRPORTCOD": "NCS", "XCOORD": 29.96667, "YCOORD": -27.76667, "val": 50, "city": "Newcastle, AU", "modules": "50" }, "geometry": { "type": "Point", "coordinates": [ 29.96667, -27.76667 ] } }
+,
+{ "type": "Feature", "id": 6025, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BARCELONA", "COUNTRY": "SPAIN", "ADDTLPLACE": "AEROPUERTO TRANSOCEANICO DE BARCELONA", "AIRPORTCOD": "BCN", "XCOORD": 0.08333, "YCOORD": 41.3, "val": 20, "city": "Barcelona, ES", "modules": "20" }, "geometry": { "type": "Point", "coordinates": [ 0.08333, 41.3 ] } }
+,
+{ "type": "Feature", "id": 6086, "properties": { "LAYER": "Unknown Point Feature", "NAME": "COLOMBO", "COUNTRY": "SRI LANKA", "ADDTLPLACE": "RATMALANA", "AIRPORTCOD": "RML", "XCOORD": 79.88333, "YCOORD": 6.81667, "val": 64, "city": "Colombo, LK", "modules": "64" }, "geometry": { "type": "Point", "coordinates": [ 79.88333, 6.81667 ] } }
+,
+{ "type": "Feature", "id": 6087, "properties": { "LAYER": "Unknown Point Feature", "NAME": "COLOMBO", "COUNTRY": "SRI LANKA", "ADDTLPLACE": "KATUNAYAKE", "AIRPORTCOD": "CMB", "XCOORD": 79.88333, "YCOORD": 7.18333, "val": 64, "city": "Colombo, LK", "modules": "64" }, "geometry": { "type": "Point", "coordinates": [ 79.88333, 7.18333 ] } }
+,
+{ "type": "Feature", "id": 6201, "properties": { "LAYER": "Unknown Point Feature", "NAME": "STOCKHOLM", "COUNTRY": "SWEDEN", "ADDTLPLACE": "STOCKHOLM BROMMA", "AIRPORTCOD": "BMA", "XCOORD": 17.95, "YCOORD": 59.35, "val": 77, "city": "Stockholm, SE", "modules": "77" }, "geometry": { "type": "Point", "coordinates": [ 17.95, 59.35 ] } }
+,
+{ "type": "Feature", "id": 6202, "properties": { "LAYER": "Unknown Point Feature", "NAME": "STOCKHOLM", "COUNTRY": "SWEDEN", "ADDTLPLACE": "ARLANDA", "AIRPORTCOD": "ARN", "XCOORD": 17.95, "YCOORD": 59.65, "val": 77, "city": "Stockholm, SE", "modules": "77" }, "geometry": { "type": "Point", "coordinates": [ 17.95, 59.65 ] } }
+,
+{ "type": "Feature", "id": 6261, "properties": { "LAYER": "Unknown Point Feature", "NAME": "TAIPEI", "COUNTRY": "TAIWAN", "ADDTLPLACE": "CHIANG KAI SHEK", "AIRPORTCOD": "TPE", "XCOORD": 121.21667, "YCOORD": 25.08333, "val": 52, "city": "Taipei, TW", "modules": "52" }, "geometry": { "type": "Point", "coordinates": [ 121.21667, 25.08333 ] } }
+,
+{ "type": "Feature", "id": 6262, "properties": { "LAYER": "Unknown Point Feature", "NAME": "TAIPEI", "COUNTRY": "TAIWAN", "ADDTLPLACE": "SUNG SHAN", "AIRPORTCOD": "TSA", "XCOORD": 121.55, "YCOORD": 25.06667, "val": 52, "city": "Taipei, TW", "modules": "52" }, "geometry": { "type": "Point", "coordinates": [ 121.55, 25.06667 ] } }
+,
+{ "type": "Feature", "id": 6299, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BANGKOK", "COUNTRY": "THAILAND", "ADDTLPLACE": "DON MUANG INTERNATIONAL AIRPORT", "AIRPORTCOD": "BKK", "XCOORD": 100.6, "YCOORD": 13.91667, "val": 114, "city": "Bangkok, TH", "modules": "114" }, "geometry": { "type": "Point", "coordinates": [ 100.6, 13.91667 ] } }
+,
+{ "type": "Feature", "id": 6504, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BRISTOL", "COUNTRY": "UNITED KINGDOM", "ADDTLPLACE": "LULSGATE", "AIRPORTCOD": "BRS", "XCOORD": -2.71667, "YCOORD": 51.38333, "val": 70, "city": "Bristol, ENG, GB", "modules": "70" }, "geometry": { "type": "Point", "coordinates": [ -2.71667, 51.38333 ] } }
+,
+{ "type": "Feature", "id": 6509, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CAMBRIDGE", "COUNTRY": "UNITED KINGDOM", "ADDTLPLACE": null, "AIRPORTCOD": "CBG", "XCOORD": 0.18333, "YCOORD": 52.2, "val": 82, "city": "Cambridge, CA", "modules": "82" }, "geometry": { "type": "Point", "coordinates": [ 0.18333, 52.2 ] } }
+,
+{ "type": "Feature", "id": 6574, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LONDON", "COUNTRY": "UNITED KINGDOM", "ADDTLPLACE": "METROPOLITAN AREA", "AIRPORTCOD": "LON", "XCOORD": -0.11667, "YCOORD": 51.5, "val": 511, "city": "London, ENG, GB", "modules": "511" }, "geometry": { "type": "Point", "coordinates": [ -0.11667, 51.5 ] } }
+,
+{ "type": "Feature", "id": 6575, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LONDON", "COUNTRY": "UNITED KINGDOM", "ADDTLPLACE": "GATWICK AIRPORT", "AIRPORTCOD": "LGW", "XCOORD": -0.18333, "YCOORD": 51.15, "val": 511, "city": "London, ENG, GB", "modules": "511" }, "geometry": { "type": "Point", "coordinates": [ -0.18333, 51.15 ] } }
+,
+{ "type": "Feature", "id": 6576, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LONDON", "COUNTRY": "UNITED KINGDOM", "ADDTLPLACE": "LUTON AIRPORT", "AIRPORTCOD": "LTN", "XCOORD": -0.36667, "YCOORD": 51.88333, "val": 511, "city": "London, ENG, GB", "modules": "511" }, "geometry": { "type": "Point", "coordinates": [ -0.36667, 51.88333 ] } }
+,
+{ "type": "Feature", "id": 6577, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LONDON", "COUNTRY": "UNITED KINGDOM", "ADDTLPLACE": "STANSTED", "AIRPORTCOD": "STN", "XCOORD": 0.23333, "YCOORD": 51.88333, "val": 511, "city": "London, ENG, GB", "modules": "511" }, "geometry": { "type": "Point", "coordinates": [ 0.23333, 51.88333 ] } }
+,
+{ "type": "Feature", "id": 6578, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LONDON", "COUNTRY": "UNITED KINGDOM", "ADDTLPLACE": "HEATHROW AIRPORT", "AIRPORTCOD": "LHR", "XCOORD": -0.45, "YCOORD": 51.48333, "val": 511, "city": "London, ENG, GB", "modules": "511" }, "geometry": { "type": "Point", "coordinates": [ -0.45, 51.48333 ] } }
+,
+{ "type": "Feature", "id": 6592, "properties": { "LAYER": "Unknown Point Feature", "NAME": "NEWCASTLE", "COUNTRY": "UNITED KINGDOM", "ADDTLPLACE": null, "AIRPORTCOD": "NCL", "XCOORD": -1.68333, "YCOORD": 55.03333, "val": 50, "city": "Newcastle, AU", "modules": "50" }, "geometry": { "type": "Point", "coordinates": [ -1.68333, 55.03333 ] } }
+,
+{ "type": "Feature", "id": 6609, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ROCHESTER", "COUNTRY": "UNITED KINGDOM", "ADDTLPLACE": null, "AIRPORTCOD": "RCS", "XCOORD": 0.5, "YCOORD": 51.35, "val": 50, "city": "Rochester, NY, US", "modules": "50" }, "geometry": { "type": "Point", "coordinates": [ 0.5, 51.35 ] } }
+,
+{ "type": "Feature", "id": 6616, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SOUTHAMPTON", "COUNTRY": "UNITED KINGDOM", "ADDTLPLACE": "EASTLEIGH", "AIRPORTCOD": "SOU", "XCOORD": -1.35, "YCOORD": 50.95, "val": 56, "city": "Southampton, ENG, GB", "modules": "56" }, "geometry": { "type": "Point", "coordinates": [ -1.35, 50.95 ] } }
+,
+{ "type": "Feature", "id": 6720, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ALAMEDA", "COUNTRY": "USA", "ADDTLPLACE": "ALAMEDA NAVAL AIR STATION", "AIRPORTCOD": "NGZ", "XCOORD": -122.31667, "YCOORD": 37.78333, "val": 15, "city": "Alameda, CA, US", "modules": "15" }, "geometry": { "type": "Point", "coordinates": [ -122.31667, 37.78333 ] } }
+,
+{ "type": "Feature", "id": 6930, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ATHENS", "COUNTRY": "USA", "ADDTLPLACE": "ATHENS\/BEN EPPS", "AIRPORTCOD": "AHN", "XCOORD": -83.32611, "YCOORD": 33.94833, "val": 22, "city": "Athens, GR", "modules": "22" }, "geometry": { "type": "Point", "coordinates": [ -83.32611, 33.94833 ] } }
+,
+{ "type": "Feature", "id": 6931, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ATHENS", "COUNTRY": "USA", "ADDTLPLACE": "DAVID'S", "AIRPORTCOD": "9C2", "XCOORD": -85.24139, "YCOORD": 42.06528, "val": 22, "city": "Athens, GR", "modules": "22" }, "geometry": { "type": "Point", "coordinates": [ -85.24139, 42.06528 ] } }
+,
+{ "type": "Feature", "id": 6932, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ATHENS", "COUNTRY": "USA", "ADDTLPLACE": "ATHENS", "AIRPORTCOD": "NY0", "XCOORD": -73.845, "YCOORD": 42.28389, "val": 22, "city": "Athens, GR", "modules": "22" }, "geometry": { "type": "Point", "coordinates": [ -73.845, 42.28389 ] } }
+,
+{ "type": "Feature", "id": 6933, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ATHENS", "COUNTRY": "USA", "ADDTLPLACE": "MCMINN COUNTY", "AIRPORTCOD": "MMI", "XCOORD": -84.5625, "YCOORD": 35.39667, "val": 22, "city": "Athens, GR", "modules": "22" }, "geometry": { "type": "Point", "coordinates": [ -84.5625, 35.39667 ] } }
+,
+{ "type": "Feature", "id": 6934, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ATHENS", "COUNTRY": "USA", "ADDTLPLACE": "ATHENS MUNI", "AIRPORTCOD": "F44", "XCOORD": -95.82833, "YCOORD": 32.16361, "val": 22, "city": "Athens, GR", "modules": "22" }, "geometry": { "type": "Point", "coordinates": [ -95.82833, 32.16361 ] } }
+,
+{ "type": "Feature", "id": 6989, "properties": { "LAYER": "Unknown Point Feature", "NAME": "AUSTIN", "COUNTRY": "USA", "ADDTLPLACE": null, "AIRPORTCOD": "U31", "XCOORD": -117.08333, "YCOORD": 39.5, "val": 209, "city": "Austin, TX, US", "modules": "209" }, "geometry": { "type": "Point", "coordinates": [ -117.08333, 39.5 ] } }
+,
+{ "type": "Feature", "id": 6990, "properties": { "LAYER": "Unknown Point Feature", "NAME": "AUSTIN", "COUNTRY": "USA", "ADDTLPLACE": "BIRD'S NEST", "AIRPORTCOD": "6R4", "XCOORD": -97.56722, "YCOORD": 30.39639, "val": 209, "city": "Austin, TX, US", "modules": "209" }, "geometry": { "type": "Point", "coordinates": [ -97.56722, 30.39639 ] } }
+,
+{ "type": "Feature", "id": 6991, "properties": { "LAYER": "Unknown Point Feature", "NAME": "AUSTIN", "COUNTRY": "USA", "ADDTLPLACE": "AUSTIN", "AIRPORTCOD": "9U3", "XCOORD": -117.19528, "YCOORD": 39.46778, "val": 209, "city": "Austin, TX, US", "modules": "209" }, "geometry": { "type": "Point", "coordinates": [ -117.19528, 39.46778 ] } }
+,
+{ "type": "Feature", "id": 6992, "properties": { "LAYER": "Unknown Point Feature", "NAME": "AUSTIN", "COUNTRY": "USA", "ADDTLPLACE": "AUSTIN EXECUTIVE AIRPARK", "AIRPORTCOD": "3R3", "XCOORD": -97.665, "YCOORD": 30.41361, "val": 209, "city": "Austin, TX, US", "modules": "209" }, "geometry": { "type": "Point", "coordinates": [ -97.665, 30.41361 ] } }
+,
+{ "type": "Feature", "id": 6993, "properties": { "LAYER": "Unknown Point Feature", "NAME": "AUSTIN", "COUNTRY": "USA", "ADDTLPLACE": "AUSTIN-BERGSTROM INTL", "AIRPORTCOD": "BSM", "XCOORD": -97.67889, "YCOORD": 30.19667, "val": 209, "city": "Austin, TX, US", "modules": "209" }, "geometry": { "type": "Point", "coordinates": [ -97.67889, 30.19667 ] } }
+,
+{ "type": "Feature", "id": 6994, "properties": { "LAYER": "Unknown Point Feature", "NAME": "AUSTIN", "COUNTRY": "USA", "ADDTLPLACE": "LAKEWAY AIRPARK", "AIRPORTCOD": "3R9", "XCOORD": -97.99444, "YCOORD": 30.35778, "val": 209, "city": "Austin, TX, US", "modules": "209" }, "geometry": { "type": "Point", "coordinates": [ -97.99444, 30.35778 ] } }
+,
+{ "type": "Feature", "id": 6995, "properties": { "LAYER": "Unknown Point Feature", "NAME": "AUSTIN", "COUNTRY": "USA", "ADDTLPLACE": "AUSTIN MUNI", "AIRPORTCOD": "AUM", "XCOORD": -92.93333, "YCOORD": 43.66472, "val": 209, "city": "Austin, TX, US", "modules": "209" }, "geometry": { "type": "Point", "coordinates": [ -92.93333, 43.66472 ] } }
+,
+{ "type": "Feature", "id": 6996, "properties": { "LAYER": "Unknown Point Feature", "NAME": "AUSTIN", "COUNTRY": "USA", "ADDTLPLACE": "AUSTIN AIRPORT", "AIRPORTCOD": "ASQ", "XCOORD": -117.2, "YCOORD": 39.46667, "val": 209, "city": "Austin, TX, US", "modules": "209" }, "geometry": { "type": "Point", "coordinates": [ -117.2, 39.46667 ] } }
+,
+{ "type": "Feature", "id": 6997, "properties": { "LAYER": "Unknown Point Feature", "NAME": "AUSTIN", "COUNTRY": "USA", "ADDTLPLACE": "ROBERT MUELLER MUNI", "AIRPORTCOD": "AUS", "XCOORD": -97.70167, "YCOORD": 30.29861, "val": 209, "city": "Austin, TX, US", "modules": "209" }, "geometry": { "type": "Point", "coordinates": [ -97.70167, 30.29861 ] } }
+,
+{ "type": "Feature", "id": 7030, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BALTIMORE", "COUNTRY": "USA", "ADDTLPLACE": "MARTIN STATE", "AIRPORTCOD": "MTN", "XCOORD": -76.41361, "YCOORD": 39.32556, "val": 14, "city": "Baltimore, MD, US", "modules": "14" }, "geometry": { "type": "Point", "coordinates": [ -76.41361, 39.32556 ] } }
+,
+{ "type": "Feature", "id": 7031, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BALTIMORE", "COUNTRY": "USA", "ADDTLPLACE": "BALTIMORE AIRPARK", "AIRPORTCOD": "1W2", "XCOORD": -76.42583, "YCOORD": 39.40444, "val": 14, "city": "Baltimore, MD, US", "modules": "14" }, "geometry": { "type": "Point", "coordinates": [ -76.42583, 39.40444 ] } }
+,
+{ "type": "Feature", "id": 7032, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BALTIMORE", "COUNTRY": "USA", "ADDTLPLACE": "ESSEX SKYPARK", "AIRPORTCOD": "W48", "XCOORD": -76.43278, "YCOORD": 39.2625, "val": 14, "city": "Baltimore, MD, US", "modules": "14" }, "geometry": { "type": "Point", "coordinates": [ -76.43278, 39.2625 ] } }
+,
+{ "type": "Feature", "id": 7033, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BALTIMORE", "COUNTRY": "USA", "ADDTLPLACE": "BALTIMORE-WASHINGTON INTL", "AIRPORTCOD": "BWI", "XCOORD": -76.66806, "YCOORD": 39.17528, "val": 14, "city": "Baltimore, MD, US", "modules": "14" }, "geometry": { "type": "Point", "coordinates": [ -76.66806, 39.17528 ] } }
+,
+{ "type": "Feature", "id": 7034, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BALTIMORE", "COUNTRY": "USA", "ADDTLPLACE": "MILLER FARM LANDING STRIP", "AIRPORTCOD": "OH3", "XCOORD": -82.58889, "YCOORD": 39.88444, "val": 14, "city": "Baltimore, MD, US", "modules": "14" }, "geometry": { "type": "Point", "coordinates": [ -82.58889, 39.88444 ] } }
+,
+{ "type": "Feature", "id": 7175, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BERLIN", "COUNTRY": "USA", "ADDTLPLACE": "BERLIN MUNI", "AIRPORTCOD": "BML", "XCOORD": -71.17583, "YCOORD": 44.57528, "val": 216, "city": "Berlin, DE", "modules": "216" }, "geometry": { "type": "Point", "coordinates": [ -71.17583, 44.57528 ] } }
+,
+{ "type": "Feature", "id": 7176, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BERLIN", "COUNTRY": "USA", "ADDTLPLACE": "CAMDEN COUNTY", "AIRPORTCOD": "19N", "XCOORD": -74.94778, "YCOORD": 39.77833, "val": 216, "city": "Berlin, DE", "modules": "216" }, "geometry": { "type": "Point", "coordinates": [ -74.94778, 39.77833 ] } }
+,
+{ "type": "Feature", "id": 7177, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BERLIN", "COUNTRY": "USA", "ADDTLPLACE": "BERLIN FIELD", "AIRPORTCOD": "45C", "XCOORD": -88.9625, "YCOORD": 43.99139, "val": 216, "city": "Berlin, DE", "modules": "216" }, "geometry": { "type": "Point", "coordinates": [ -88.9625, 43.99139 ] } }
+,
+{ "type": "Feature", "id": 7297, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BOSTON", "COUNTRY": "USA", "ADDTLPLACE": "BOSTON", "AIRPORTCOD": "1MA", "XCOORD": -71.04694, "YCOORD": 42.34472, "val": 254, "city": "Boston, MA, US", "modules": "254" }, "geometry": { "type": "Point", "coordinates": [ -71.04694, 42.34472 ] } }
+,
+{ "type": "Feature", "id": 7298, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BOSTON", "COUNTRY": "USA", "ADDTLPLACE": "BOSTON CITY HELIPORT", "AIRPORTCOD": "JBC", "XCOORD": -71.05, "YCOORD": 42.35, "val": 254, "city": "Boston, MA, US", "modules": "254" }, "geometry": { "type": "Point", "coordinates": [ -71.05, 42.35 ] } }
+,
+{ "type": "Feature", "id": 7299, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BOSTON", "COUNTRY": "USA", "ADDTLPLACE": "GENERAL EDWARD LAWRENCE LOGAN INTL", "AIRPORTCOD": "BOS", "XCOORD": -71.005, "YCOORD": 42.36417, "val": 254, "city": "Boston, MA, US", "modules": "254" }, "geometry": { "type": "Point", "coordinates": [ -71.005, 42.36417 ] } }
+,
+{ "type": "Feature", "id": 7301, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BOULDER", "COUNTRY": "USA", "ADDTLPLACE": "BOULDER MUNI", "AIRPORTCOD": "1V5", "XCOORD": -105.22556, "YCOORD": 40.03917, "val": 24, "city": "Boulder, CO, US", "modules": "24" }, "geometry": { "type": "Point", "coordinates": [ -105.22556, 40.03917 ] } }
+,
+{ "type": "Feature", "id": 7302, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BOULDER", "COUNTRY": "USA", "ADDTLPLACE": "BOULDER MUNICIPAL AIRPORT", "AIRPORTCOD": "WBU", "XCOORD": -105.23333, "YCOORD": 40.03333, "val": 24, "city": "Boulder, CO, US", "modules": "24" }, "geometry": { "type": "Point", "coordinates": [ -105.23333, 40.03333 ] } }
+,
+{ "type": "Feature", "id": 7303, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BOULDER", "COUNTRY": "USA", "ADDTLPLACE": "BOULDER", "AIRPORTCOD": "3U9", "XCOORD": -112.10556, "YCOORD": 46.21139, "val": 24, "city": "Boulder, CO, US", "modules": "24" }, "geometry": { "type": "Point", "coordinates": [ -112.10556, 46.21139 ] } }
+,
+{ "type": "Feature", "id": 7330, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BRAZIL", "COUNTRY": "USA", "ADDTLPLACE": "BRAZIL CLAY COUNTY", "AIRPORTCOD": "0I2", "XCOORD": -87.09944, "YCOORD": 39.47667, "val": 34, "city": "Brazil, IN, US", "modules": "34" }, "geometry": { "type": "Point", "coordinates": [ -87.09944, 39.47667 ] } }
+,
+{ "type": "Feature", "id": 7349, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BRISTOL", "COUNTRY": "USA", "ADDTLPLACE": "KIBS AIR PARK", "AIRPORTCOD": "L89", "XCOORD": -92.14583, "YCOORD": 30.38111, "val": 70, "city": "Bristol, ENG, GB", "modules": "70" }, "geometry": { "type": "Point", "coordinates": [ -92.14583, 30.38111 ] } }
+,
+{ "type": "Feature", "id": 7350, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BRISTOL", "COUNTRY": "USA", "ADDTLPLACE": "NEWFOUND VALLEY", "AIRPORTCOD": "NH0", "XCOORD": -71.75139, "YCOORD": 43.59194, "val": 70, "city": "Bristol, ENG, GB", "modules": "70" }, "geometry": { "type": "Point", "coordinates": [ -71.75139, 43.59194 ] } }
+,
+{ "type": "Feature", "id": 7368, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BROOKLYN", "COUNTRY": "USA", "ADDTLPLACE": "SHAMROCK FLD", "AIRPORTCOD": "6G8", "XCOORD": -84.24056, "YCOORD": 42.095, "val": 206, "city": "Brooklyn, NY, US", "modules": "206" }, "geometry": { "type": "Point", "coordinates": [ -84.24056, 42.095 ] } }
+,
+{ "type": "Feature", "id": 7402, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BUFFALO", "COUNTRY": "USA", "ADDTLPLACE": "BUFFALO AIRFIELD", "AIRPORTCOD": "9G0", "XCOORD": -78.71639, "YCOORD": 42.86194, "val": 71, "city": "Buffalo, NY, US", "modules": "71" }, "geometry": { "type": "Point", "coordinates": [ -78.71639, 42.86194 ] } }
+,
+{ "type": "Feature", "id": 7403, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BUFFALO", "COUNTRY": "USA", "ADDTLPLACE": "B A I", "AIRPORTCOD": "K80", "XCOORD": -78.87417, "YCOORD": 42.95528, "val": 71, "city": "Buffalo, NY, US", "modules": "71" }, "geometry": { "type": "Point", "coordinates": [ -78.87417, 42.95528 ] } }
+,
+{ "type": "Feature", "id": 7404, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BUFFALO", "COUNTRY": "USA", "ADDTLPLACE": "BUFFALO MUNI", "AIRPORTCOD": "8Y2", "XCOORD": -93.84306, "YCOORD": 45.15889, "val": 71, "city": "Buffalo, NY, US", "modules": "71" }, "geometry": { "type": "Point", "coordinates": [ -93.84306, 45.15889 ] } }
+,
+{ "type": "Feature", "id": 7405, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BUFFALO", "COUNTRY": "USA", "ADDTLPLACE": "BUFFALO MUNI", "AIRPORTCOD": "H17", "XCOORD": -93.0875, "YCOORD": 37.65417, "val": 71, "city": "Buffalo, NY, US", "modules": "71" }, "geometry": { "type": "Point", "coordinates": [ -93.0875, 37.65417 ] } }
+,
+{ "type": "Feature", "id": 7406, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BUFFALO", "COUNTRY": "USA", "ADDTLPLACE": "GREATER BUFFALO INTL", "AIRPORTCOD": "BUF", "XCOORD": -78.73194, "YCOORD": 42.94028, "val": 71, "city": "Buffalo, NY, US", "modules": "71" }, "geometry": { "type": "Point", "coordinates": [ -78.73194, 42.94028 ] } }
+,
+{ "type": "Feature", "id": 7407, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BUFFALO", "COUNTRY": "USA", "ADDTLPLACE": "BUFFALO MUNI", "AIRPORTCOD": "OK5", "XCOORD": -99.61861, "YCOORD": 36.86361, "val": 71, "city": "Buffalo, NY, US", "modules": "71" }, "geometry": { "type": "Point", "coordinates": [ -99.61861, 36.86361 ] } }
+,
+{ "type": "Feature", "id": 7408, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BUFFALO", "COUNTRY": "USA", "ADDTLPLACE": "HARDING COUNTY", "AIRPORTCOD": "9D2", "XCOORD": -103.52944, "YCOORD": 45.58028, "val": 71, "city": "Buffalo, NY, US", "modules": "71" }, "geometry": { "type": "Point", "coordinates": [ -103.52944, 45.58028 ] } }
+,
+{ "type": "Feature", "id": 7409, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BUFFALO", "COUNTRY": "USA", "ADDTLPLACE": "JOHNSON COUNTY", "AIRPORTCOD": "BYG", "XCOORD": -106.72167, "YCOORD": 44.38083, "val": 71, "city": "Buffalo, NY, US", "modules": "71" }, "geometry": { "type": "Point", "coordinates": [ -106.72167, 44.38083 ] } }
+,
+{ "type": "Feature", "id": 7481, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CAMBRIDGE", "COUNTRY": "USA", "ADDTLPLACE": "SALT FORK LODGE", "AIRPORTCOD": "08G", "XCOORD": -81.52611, "YCOORD": 40.11083, "val": 82, "city": "Cambridge, CA", "modules": "82" }, "geometry": { "type": "Point", "coordinates": [ -81.52611, 40.11083 ] } }
+,
+{ "type": "Feature", "id": 7482, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CAMBRIDGE", "COUNTRY": "USA", "ADDTLPLACE": "CAMBRIDGE-DORCHESTER", "AIRPORTCOD": "CGE", "XCOORD": -76.03028, "YCOORD": 38.53917, "val": 82, "city": "Cambridge, CA", "modules": "82" }, "geometry": { "type": "Point", "coordinates": [ -76.03028, 38.53917 ] } }
+,
+{ "type": "Feature", "id": 7483, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CAMBRIDGE", "COUNTRY": "USA", "ADDTLPLACE": "CAMBRIDGE MUNI", "AIRPORTCOD": "CBG", "XCOORD": -93.26444, "YCOORD": 45.55833, "val": 82, "city": "Cambridge, CA", "modules": "82" }, "geometry": { "type": "Point", "coordinates": [ -93.26444, 45.55833 ] } }
+,
+{ "type": "Feature", "id": 7484, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CAMBRIDGE", "COUNTRY": "USA", "ADDTLPLACE": "CAMBRIDGE MUNI", "AIRPORTCOD": "CSB", "XCOORD": -100.16194, "YCOORD": 40.30639, "val": 82, "city": "Cambridge, CA", "modules": "82" }, "geometry": { "type": "Point", "coordinates": [ -100.16194, 40.30639 ] } }
+,
+{ "type": "Feature", "id": 7485, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CAMBRIDGE", "COUNTRY": "USA", "ADDTLPLACE": "CHAPIN FLD", "AIRPORTCOD": "NY0", "XCOORD": -73.36611, "YCOORD": 43.05, "val": 82, "city": "Cambridge, CA", "modules": "82" }, "geometry": { "type": "Point", "coordinates": [ -73.36611, 43.05 ] } }
+,
+{ "type": "Feature", "id": 7486, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CAMBRIDGE", "COUNTRY": "USA", "ADDTLPLACE": "CAMBRIDGE MUNI", "AIRPORTCOD": "CDI", "XCOORD": -81.5775, "YCOORD": 39.975, "val": 82, "city": "Cambridge, CA", "modules": "82" }, "geometry": { "type": "Point", "coordinates": [ -81.5775, 39.975 ] } }
+,
+{ "type": "Feature", "id": 7646, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CHARLESTON", "COUNTRY": "USA", "ADDTLPLACE": "CHARLESTON EXECUTIVE", "AIRPORTCOD": "JZI", "XCOORD": -80.00278, "YCOORD": 32.70083, "val": 35, "city": "Charleston, SC, US", "modules": "35" }, "geometry": { "type": "Point", "coordinates": [ -80.00278, 32.70083 ] } }
+,
+{ "type": "Feature", "id": 7647, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CHARLESTON", "COUNTRY": "USA", "ADDTLPLACE": "MISSISSIPPI COUNTY", "AIRPORTCOD": "CHQ", "XCOORD": -89.35944, "YCOORD": 36.84194, "val": 35, "city": "Charleston, SC, US", "modules": "35" }, "geometry": { "type": "Point", "coordinates": [ -89.35944, 36.84194 ] } }
+,
+{ "type": "Feature", "id": 7648, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CHARLESTON", "COUNTRY": "USA", "ADDTLPLACE": "CHARLESTON MUNI", "AIRPORTCOD": "09M", "XCOORD": -90.07806, "YCOORD": 33.99139, "val": 35, "city": "Charleston, SC, US", "modules": "35" }, "geometry": { "type": "Point", "coordinates": [ -90.07806, 33.99139 ] } }
+,
+{ "type": "Feature", "id": 7649, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CHARLESTON", "COUNTRY": "USA", "ADDTLPLACE": "CHARLESTON AFB\/INTL", "AIRPORTCOD": "CHS", "XCOORD": -80.04028, "YCOORD": 32.89861, "val": 35, "city": "Charleston, SC, US", "modules": "35" }, "geometry": { "type": "Point", "coordinates": [ -80.04028, 32.89861 ] } }
+,
+{ "type": "Feature", "id": 7650, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CHARLESTON", "COUNTRY": "USA", "ADDTLPLACE": "YEAGER", "AIRPORTCOD": "CRW", "XCOORD": -81.59306, "YCOORD": 38.37306, "val": 35, "city": "Charleston, SC, US", "modules": "35" }, "geometry": { "type": "Point", "coordinates": [ -81.59306, 38.37306 ] } }
+,
+{ "type": "Feature", "id": 7653, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CHARLOTTE", "COUNTRY": "USA", "ADDTLPLACE": "FITCH H BEACH", "AIRPORTCOD": "07G", "XCOORD": -84.81139, "YCOORD": 42.57444, "val": 68, "city": "Charlotte, NC, US", "modules": "68" }, "geometry": { "type": "Point", "coordinates": [ -84.81139, 42.57444 ] } }
+,
+{ "type": "Feature", "id": 7654, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CHARLOTTE", "COUNTRY": "USA", "ADDTLPLACE": "WILGROVE AIR PARK", "AIRPORTCOD": "8A6", "XCOORD": -80.67, "YCOORD": 35.21361, "val": 68, "city": "Charlotte, NC, US", "modules": "68" }, "geometry": { "type": "Point", "coordinates": [ -80.67, 35.21361 ] } }
+,
+{ "type": "Feature", "id": 7655, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CHARLOTTE", "COUNTRY": "USA", "ADDTLPLACE": "WEND VALLEY", "AIRPORTCOD": "49G", "XCOORD": -84.90806, "YCOORD": 42.57917, "val": 68, "city": "Charlotte, NC, US", "modules": "68" }, "geometry": { "type": "Point", "coordinates": [ -84.90806, 42.57917 ] } }
+,
+{ "type": "Feature", "id": 7656, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CHARLOTTE", "COUNTRY": "USA", "ADDTLPLACE": "CHARLOTTE\/DOUGLAS INTL", "AIRPORTCOD": "CLT", "XCOORD": -80.94306, "YCOORD": 35.21389, "val": 68, "city": "Charlotte, NC, US", "modules": "68" }, "geometry": { "type": "Point", "coordinates": [ -80.94306, 35.21389 ] } }
+,
+{ "type": "Feature", "id": 7701, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CHICAGO", "COUNTRY": "USA", "ADDTLPLACE": "LANSING MUNI", "AIRPORTCOD": "IGQ", "XCOORD": -87.53194, "YCOORD": 41.53972, "val": 91, "city": "Chicago, IL, US", "modules": "91" }, "geometry": { "type": "Point", "coordinates": [ -87.53194, 41.53972 ] } }
+,
+{ "type": "Feature", "id": 7702, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CHICAGO", "COUNTRY": "USA", "ADDTLPLACE": "LANSING MUNICIPAL AIRPORT", "AIRPORTCOD": "3HA", "XCOORD": -87.53333, "YCOORD": 41.53333, "val": 91, "city": "Chicago, IL, US", "modules": "91" }, "geometry": { "type": "Point", "coordinates": [ -87.53333, 41.53333 ] } }
+,
+{ "type": "Feature", "id": 7703, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CHICAGO", "COUNTRY": "USA", "ADDTLPLACE": "MERRILL C MEIGS", "AIRPORTCOD": "CGX", "XCOORD": -87.60778, "YCOORD": 41.85861, "val": 91, "city": "Chicago, IL, US", "modules": "91" }, "geometry": { "type": "Point", "coordinates": [ -87.60778, 41.85861 ] } }
+,
+{ "type": "Feature", "id": 7704, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CHICAGO", "COUNTRY": "USA", "ADDTLPLACE": "CHICAGO MIDWAY", "AIRPORTCOD": "MDW", "XCOORD": -87.75222, "YCOORD": 41.78583, "val": 91, "city": "Chicago, IL, US", "modules": "91" }, "geometry": { "type": "Point", "coordinates": [ -87.75222, 41.78583 ] } }
+,
+{ "type": "Feature", "id": 7705, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CHICAGO", "COUNTRY": "USA", "ADDTLPLACE": "METROPOLITAN AREA", "AIRPORTCOD": "CHI", "XCOORD": -87.88333, "YCOORD": 42.0, "val": 91, "city": "Chicago, IL, US", "modules": "91" }, "geometry": { "type": "Point", "coordinates": [ -87.88333, 42.0 ] } }
+,
+{ "type": "Feature", "id": 7706, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CHICAGO", "COUNTRY": "USA", "ADDTLPLACE": "CHICAGO O'HARE INTL", "AIRPORTCOD": "ORD", "XCOORD": -87.90444, "YCOORD": 41.97944, "val": 91, "city": "Chicago, IL, US", "modules": "91" }, "geometry": { "type": "Point", "coordinates": [ -87.90444, 41.97944 ] } }
+,
+{ "type": "Feature", "id": 7752, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CINCINNATI", "COUNTRY": "USA", "ADDTLPLACE": "CINCINNATI MUNI AIRPORT LUNKEN FIELD", "AIRPORTCOD": "LUK", "XCOORD": -84.41861, "YCOORD": 39.10333, "val": 128, "city": "Cincinnati, OH, US", "modules": "128" }, "geometry": { "type": "Point", "coordinates": [ -84.41861, 39.10333 ] } }
+,
+{ "type": "Feature", "id": 7753, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CINCINNATI", "COUNTRY": "USA", "ADDTLPLACE": "CINCINNATI-BLUE ASH", "AIRPORTCOD": "ISZ", "XCOORD": -84.38889, "YCOORD": 39.24667, "val": 128, "city": "Cincinnati, OH, US", "modules": "128" }, "geometry": { "type": "Point", "coordinates": [ -84.38889, 39.24667 ] } }
+,
+{ "type": "Feature", "id": 7975, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CORONA", "COUNTRY": "USA", "ADDTLPLACE": "CORONA MUNICIPAL AIRPORT", "AIRPORTCOD": "L66", "XCOORD": -117.6, "YCOORD": 33.9, "val": 60, "city": "Corona, CA, US", "modules": "60" }, "geometry": { "type": "Point", "coordinates": [ -117.6, 33.9 ] } }
+,
+{ "type": "Feature", "id": 7976, "properties": { "LAYER": "Unknown Point Feature", "NAME": "CORONA", "COUNTRY": "USA", "ADDTLPLACE": "CORONA MUNI", "AIRPORTCOD": "AJO", "XCOORD": -117.60222, "YCOORD": 33.8975, "val": 60, "city": "Corona, CA, US", "modules": "60" }, "geometry": { "type": "Point", "coordinates": [ -117.60222, 33.8975 ] } }
+,
+{ "type": "Feature", "id": 8087, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DALLAS", "COUNTRY": "USA", "ADDTLPLACE": "AIRPARK EAST", "AIRPORTCOD": "1F7", "XCOORD": -96.35194, "YCOORD": 32.81389, "val": 14, "city": "Dallas, TX, US", "modules": "14" }, "geometry": { "type": "Point", "coordinates": [ -96.35194, 32.81389 ] } }
+,
+{ "type": "Feature", "id": 8088, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DALLAS", "COUNTRY": "USA", "ADDTLPLACE": "DALLAS CBD VERTIPORT", "AIRPORTCOD": "49T", "XCOORD": -96.80028, "YCOORD": 32.77333, "val": 14, "city": "Dallas, TX, US", "modules": "14" }, "geometry": { "type": "Point", "coordinates": [ -96.80028, 32.77333 ] } }
+,
+{ "type": "Feature", "id": 8089, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DALLAS", "COUNTRY": "USA", "ADDTLPLACE": "ADDISON", "AIRPORTCOD": "ADS", "XCOORD": -96.83639, "YCOORD": 32.96833, "val": 14, "city": "Dallas, TX, US", "modules": "14" }, "geometry": { "type": "Point", "coordinates": [ -96.83639, 32.96833 ] } }
+,
+{ "type": "Feature", "id": 8090, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DALLAS", "COUNTRY": "USA", "ADDTLPLACE": "AIR PARK-DALLAS", "AIRPORTCOD": "F69", "XCOORD": -96.83694, "YCOORD": 33.02333, "val": 14, "city": "Dallas, TX, US", "modules": "14" }, "geometry": { "type": "Point", "coordinates": [ -96.83694, 33.02333 ] } }
+,
+{ "type": "Feature", "id": 8091, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DALLAS", "COUNTRY": "USA", "ADDTLPLACE": "REDBIRD", "AIRPORTCOD": "RBD", "XCOORD": -96.86806, "YCOORD": 32.68083, "val": 14, "city": "Dallas, TX, US", "modules": "14" }, "geometry": { "type": "Point", "coordinates": [ -96.86806, 32.68083 ] } }
+,
+{ "type": "Feature", "id": 8092, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DALLAS", "COUNTRY": "USA", "ADDTLPLACE": "DALLAS NAS \/HENSLEY FIELD\/", "AIRPORTCOD": "NBE", "XCOORD": -96.9675, "YCOORD": 32.73444, "val": 14, "city": "Dallas, TX, US", "modules": "14" }, "geometry": { "type": "Point", "coordinates": [ -96.9675, 32.73444 ] } }
+,
+{ "type": "Feature", "id": 8093, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DALLAS", "COUNTRY": "USA", "ADDTLPLACE": "DALLAS LOVE FIELD", "AIRPORTCOD": "DAL", "XCOORD": -96.85167, "YCOORD": 32.84694, "val": 14, "city": "Dallas, TX, US", "modules": "14" }, "geometry": { "type": "Point", "coordinates": [ -96.85167, 32.84694 ] } }
+,
+{ "type": "Feature", "id": 8197, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DENVER", "COUNTRY": "USA", "ADDTLPLACE": "DENVER INTERNATIONAL AIRPORT", "AIRPORTCOD": "DVX", "XCOORD": -104.66667, "YCOORD": 39.86667, "val": 23, "city": "Denver, CO, US", "modules": "23" }, "geometry": { "type": "Point", "coordinates": [ -104.66667, 39.86667 ] } }
+,
+{ "type": "Feature", "id": 8198, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DENVER", "COUNTRY": "USA", "ADDTLPLACE": "FRONT RANGE", "AIRPORTCOD": "FTG", "XCOORD": -104.54361, "YCOORD": 39.78528, "val": 23, "city": "Denver, CO, US", "modules": "23" }, "geometry": { "type": "Point", "coordinates": [ -104.54361, 39.78528 ] } }
+,
+{ "type": "Feature", "id": 8199, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DENVER", "COUNTRY": "USA", "ADDTLPLACE": "CENTENNIAL", "AIRPORTCOD": "APA", "XCOORD": -104.84917, "YCOORD": 39.57, "val": 23, "city": "Denver, CO, US", "modules": "23" }, "geometry": { "type": "Point", "coordinates": [ -104.84917, 39.57 ] } }
+,
+{ "type": "Feature", "id": 8200, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DENVER", "COUNTRY": "USA", "ADDTLPLACE": "JEFFCO", "AIRPORTCOD": "BJC", "XCOORD": -105.11694, "YCOORD": 39.90861, "val": 23, "city": "Denver, CO, US", "modules": "23" }, "geometry": { "type": "Point", "coordinates": [ -105.11694, 39.90861 ] } }
+,
+{ "type": "Feature", "id": 8201, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DENVER", "COUNTRY": "USA", "ADDTLPLACE": "DENVER INTL", "AIRPORTCOD": "DEN", "XCOORD": -104.66694, "YCOORD": 39.85833, "val": 23, "city": "Denver, CO, US", "modules": "23" }, "geometry": { "type": "Point", "coordinates": [ -104.66694, 39.85833 ] } }
+,
+{ "type": "Feature", "id": 8214, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DETROIT", "COUNTRY": "USA", "ADDTLPLACE": "BERZ-MACOMB", "AIRPORTCOD": "UIZ", "XCOORD": -82.96528, "YCOORD": 42.66389, "val": 21, "city": "Detroit, MI, US", "modules": "21" }, "geometry": { "type": "Point", "coordinates": [ -82.96528, 42.66389 ] } }
+,
+{ "type": "Feature", "id": 8215, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DETROIT", "COUNTRY": "USA", "ADDTLPLACE": "DETROIT CITY", "AIRPORTCOD": "DET", "XCOORD": -83.00972, "YCOORD": 42.40917, "val": 21, "city": "Detroit, MI, US", "modules": "21" }, "geometry": { "type": "Point", "coordinates": [ -83.00972, 42.40917 ] } }
+,
+{ "type": "Feature", "id": 8216, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DETROIT", "COUNTRY": "USA", "ADDTLPLACE": "COBO HALL", "AIRPORTCOD": "84G", "XCOORD": -83.04778, "YCOORD": 42.32583, "val": 21, "city": "Detroit, MI, US", "modules": "21" }, "geometry": { "type": "Point", "coordinates": [ -83.04778, 42.32583 ] } }
+,
+{ "type": "Feature", "id": 8217, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DETROIT", "COUNTRY": "USA", "ADDTLPLACE": "WILLOW RUN", "AIRPORTCOD": "YIP", "XCOORD": -83.53028, "YCOORD": 42.23778, "val": 21, "city": "Detroit, MI, US", "modules": "21" }, "geometry": { "type": "Point", "coordinates": [ -83.53028, 42.23778 ] } }
+,
+{ "type": "Feature", "id": 8218, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DETROIT", "COUNTRY": "USA", "ADDTLPLACE": "DETROIT METROPOLITAN WAYNE COUNTY", "AIRPORTCOD": "DTW", "XCOORD": -83.34861, "YCOORD": 42.21194, "val": 21, "city": "Detroit, MI, US", "modules": "21" }, "geometry": { "type": "Point", "coordinates": [ -83.34861, 42.21194 ] } }
+,
+{ "type": "Feature", "id": 8284, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DUBLIN", "COUNTRY": "USA", "ADDTLPLACE": "W H 'BUD' BARRON", "AIRPORTCOD": "DBN", "XCOORD": -82.98639, "YCOORD": 32.56389, "val": 38, "city": "Dublin, L, IE", "modules": "38" }, "geometry": { "type": "Point", "coordinates": [ -82.98639, 32.56389 ] } }
+,
+{ "type": "Feature", "id": 8285, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DUBLIN", "COUNTRY": "USA", "ADDTLPLACE": "DUBLIN MUNI", "AIRPORTCOD": "9F0", "XCOORD": -98.32528, "YCOORD": 32.06806, "val": 38, "city": "Dublin, L, IE", "modules": "38" }, "geometry": { "type": "Point", "coordinates": [ -98.32528, 32.06806 ] } }
+,
+{ "type": "Feature", "id": 8286, "properties": { "LAYER": "Unknown Point Feature", "NAME": "DUBLIN", "COUNTRY": "USA", "ADDTLPLACE": "NEW RIVER VALLEY", "AIRPORTCOD": "PSK", "XCOORD": -80.67833, "YCOORD": 37.13722, "val": 38, "city": "Dublin, L, IE", "modules": "38" }, "geometry": { "type": "Point", "coordinates": [ -80.67833, 37.13722 ] } }
+,
+{ "type": "Feature", "id": 8471, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ENGLAND", "COUNTRY": "USA", "ADDTLPLACE": "BREDLOW FARM", "AIRPORTCOD": "5M2", "XCOORD": -92.1, "YCOORD": 34.53333, "val": 22, "city": "England, AR, US", "modules": "22" }, "geometry": { "type": "Point", "coordinates": [ -92.1, 34.53333 ] } }
+,
+{ "type": "Feature", "id": 8472, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ENGLAND", "COUNTRY": "USA", "ADDTLPLACE": "ENGLAND FLYING SERVICE", "AIRPORTCOD": "M75", "XCOORD": -91.98333, "YCOORD": 34.54167, "val": 22, "city": "England, AR, US", "modules": "22" }, "geometry": { "type": "Point", "coordinates": [ -91.98333, 34.54167 ] } }
+,
+{ "type": "Feature", "id": 8765, "properties": { "LAYER": "Unknown Point Feature", "NAME": "FREMONT", "COUNTRY": "USA", "ADDTLPLACE": "FREMONT MUNI", "AIRPORTCOD": "3FM", "XCOORD": -85.99472, "YCOORD": 43.43889, "val": 108, "city": "Fremont, CA, US", "modules": "108" }, "geometry": { "type": "Point", "coordinates": [ -85.99472, 43.43889 ] } }
+,
+{ "type": "Feature", "id": 8766, "properties": { "LAYER": "Unknown Point Feature", "NAME": "FREMONT", "COUNTRY": "USA", "ADDTLPLACE": "FREMONT MUNI", "AIRPORTCOD": "FET", "XCOORD": -96.52, "YCOORD": 41.44889, "val": 108, "city": "Fremont, CA, US", "modules": "108" }, "geometry": { "type": "Point", "coordinates": [ -96.52, 41.44889 ] } }
+,
+{ "type": "Feature", "id": 8767, "properties": { "LAYER": "Unknown Point Feature", "NAME": "FREMONT", "COUNTRY": "USA", "ADDTLPLACE": "FREMONT", "AIRPORTCOD": "14G", "XCOORD": -83.16111, "YCOORD": 41.33306, "val": 108, "city": "Fremont, CA, US", "modules": "108" }, "geometry": { "type": "Point", "coordinates": [ -83.16111, 41.33306 ] } }
+,
+{ "type": "Feature", "id": 9103, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HAMBURG", "COUNTRY": "USA", "ADDTLPLACE": "HEUSSLER HAMBURG", "AIRPORTCOD": "47N", "XCOORD": -78.84944, "YCOORD": 42.78806, "val": 75, "city": "Hamburg, DE", "modules": "75" }, "geometry": { "type": "Point", "coordinates": [ -78.84944, 42.78806 ] } }
+,
+{ "type": "Feature", "id": 9104, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HAMBURG", "COUNTRY": "USA", "ADDTLPLACE": "HAMBURG INC", "AIRPORTCOD": "4G2", "XCOORD": -78.91472, "YCOORD": 42.70083, "val": 75, "city": "Hamburg, DE", "modules": "75" }, "geometry": { "type": "Point", "coordinates": [ -78.91472, 42.70083 ] } }
+,
+{ "type": "Feature", "id": 9318, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOLLYWOOD", "COUNTRY": "USA", "ADDTLPLACE": "NORTH PERRY", "AIRPORTCOD": "HWO", "XCOORD": -80.24028, "YCOORD": 26.00139, "val": 22, "city": "Hollywood, FL, US", "modules": "22" }, "geometry": { "type": "Point", "coordinates": [ -80.24028, 26.00139 ] } }
+,
+{ "type": "Feature", "id": 9366, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "WEISER AIR PARK", "AIRPORTCOD": "EYQ", "XCOORD": -95.63972, "YCOORD": 29.93528, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -95.63972, 29.93528 ] } }
+,
+{ "type": "Feature", "id": 9367, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "SUGAR LAND MUNI\/HULL FIELD", "AIRPORTCOD": "SGR", "XCOORD": -95.65639, "YCOORD": 29.62222, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -95.65639, 29.62222 ] } }
+,
+{ "type": "Feature", "id": 9368, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "MAY", "AIRPORTCOD": "2XS", "XCOORD": -95.66722, "YCOORD": 30.0425, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -95.66722, 30.0425 ] } }
+,
+{ "type": "Feature", "id": 9369, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "ELLINGTON FIELD", "AIRPORTCOD": "EFD", "XCOORD": -95.15861, "YCOORD": 29.60722, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -95.15861, 29.60722 ] } }
+,
+{ "type": "Feature", "id": 9370, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "WEST HOUSTON", "AIRPORTCOD": "IWS", "XCOORD": -95.6725, "YCOORD": 29.81806, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -95.6725, 29.81806 ] } }
+,
+{ "type": "Feature", "id": 9371, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "HOUSTON GULF", "AIRPORTCOD": "SPX", "XCOORD": -95.05111, "YCOORD": 29.50833, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -95.05111, 29.50833 ] } }
+,
+{ "type": "Feature", "id": 9372, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "WESTHEIMER AIR PARK", "AIRPORTCOD": "5TA", "XCOORD": -95.79444, "YCOORD": 29.69444, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -95.79444, 29.69444 ] } }
+,
+{ "type": "Feature", "id": 9373, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "CLOVER FIELD", "AIRPORTCOD": "T02", "XCOORD": -95.24028, "YCOORD": 29.52139, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -95.24028, 29.52139 ] } }
+,
+{ "type": "Feature", "id": 9374, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "CENTRAL BUSINESS DISTRICT HELIPORT", "AIRPORTCOD": "JDX", "XCOORD": -95.35, "YCOORD": 29.75, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -95.35, 29.75 ] } }
+,
+{ "type": "Feature", "id": 9375, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "CBD", "AIRPORTCOD": "3T8", "XCOORD": -95.35722, "YCOORD": 29.75361, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -95.35722, 29.75361 ] } }
+,
+{ "type": "Feature", "id": 9376, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "FLYIN' B", "AIRPORTCOD": "39R", "XCOORD": -95.42361, "YCOORD": 29.5375, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -95.42361, 29.5375 ] } }
+,
+{ "type": "Feature", "id": 9377, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "HOUSTON-SOUTHWEST", "AIRPORTCOD": "AXH", "XCOORD": -95.47667, "YCOORD": 29.50611, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -95.47667, 29.50611 ] } }
+,
+{ "type": "Feature", "id": 9378, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "DAVID WAYNE HOOKS MEMORIAL", "AIRPORTCOD": "DWH", "XCOORD": -95.5525, "YCOORD": 30.06167, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -95.5525, 30.06167 ] } }
+,
+{ "type": "Feature", "id": 9379, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "ANDRAU AIRPARK", "AIRPORTCOD": "AAP", "XCOORD": -95.58806, "YCOORD": 29.72222, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -95.58806, 29.72222 ] } }
+,
+{ "type": "Feature", "id": 9380, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "WILLIAM P HOBBY", "AIRPORTCOD": "HOU", "XCOORD": -95.27861, "YCOORD": 29.64528, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -95.27861, 29.64528 ] } }
+,
+{ "type": "Feature", "id": 9381, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "HOUSTON MEMORIAL", "AIRPORTCOD": "M48", "XCOORD": -91.975, "YCOORD": 37.32917, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -91.975, 37.32917 ] } }
+,
+{ "type": "Feature", "id": 9382, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "HOUSTON MUNI", "AIRPORTCOD": "M44", "XCOORD": -89.02361, "YCOORD": 33.89167, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -89.02361, 33.89167 ] } }
+,
+{ "type": "Feature", "id": 9383, "properties": { "LAYER": "Unknown Point Feature", "NAME": "HOUSTON", "COUNTRY": "USA", "ADDTLPLACE": "HOUSTON INTERCONTINENTAL", "AIRPORTCOD": "IAH", "XCOORD": -95.33944, "YCOORD": 29.98028, "val": 13, "city": "Houston, TX, US", "modules": "13" }, "geometry": { "type": "Point", "coordinates": [ -95.33944, 29.98028 ] } }
+,
+{ "type": "Feature", "id": 9502, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ITHACA", "COUNTRY": "USA", "ADDTLPLACE": "MC PHERSON", "AIRPORTCOD": "5N1", "XCOORD": -76.54944, "YCOORD": 42.51667, "val": 16, "city": "Ithaca, NY, US", "modules": "16" }, "geometry": { "type": "Point", "coordinates": [ -76.54944, 42.51667 ] } }
+,
+{ "type": "Feature", "id": 9503, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ITHACA", "COUNTRY": "USA", "ADDTLPLACE": "GRUND FIELD", "AIRPORTCOD": "5N3", "XCOORD": -76.59667, "YCOORD": 42.44722, "val": 16, "city": "Ithaca, NY, US", "modules": "16" }, "geometry": { "type": "Point", "coordinates": [ -76.59667, 42.44722 ] } }
+,
+{ "type": "Feature", "id": 9504, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ITHACA", "COUNTRY": "USA", "ADDTLPLACE": "TOMPKINS COUNTY", "AIRPORTCOD": "ITH", "XCOORD": -76.45833, "YCOORD": 42.49083, "val": 16, "city": "Ithaca, NY, US", "modules": "16" }, "geometry": { "type": "Point", "coordinates": [ -76.45833, 42.49083 ] } }
+,
+{ "type": "Feature", "id": 9742, "properties": { "LAYER": "Unknown Point Feature", "NAME": "KNOXVILLE", "COUNTRY": "USA", "ADDTLPLACE": "UNIVERSITY TENNESSEE HOSPITAL", "AIRPORTCOD": "95A", "XCOORD": -83.94917, "YCOORD": 35.94889, "val": 18, "city": "Knoxville, TN, US", "modules": "18" }, "geometry": { "type": "Point", "coordinates": [ -83.94917, 35.94889 ] } }
+,
+{ "type": "Feature", "id": 9743, "properties": { "LAYER": "Unknown Point Feature", "NAME": "KNOXVILLE", "COUNTRY": "USA", "ADDTLPLACE": "MC GHEE TYSON", "AIRPORTCOD": "TYS", "XCOORD": -83.99278, "YCOORD": 35.81222, "val": 18, "city": "Knoxville, TN, US", "modules": "18" }, "geometry": { "type": "Point", "coordinates": [ -83.99278, 35.81222 ] } }
+,
+{ "type": "Feature", "id": 9744, "properties": { "LAYER": "Unknown Point Feature", "NAME": "KNOXVILLE", "COUNTRY": "USA", "ADDTLPLACE": "POWELL", "AIRPORTCOD": "9A2", "XCOORD": -84.00417, "YCOORD": 36.04444, "val": 18, "city": "Knoxville, TN, US", "modules": "18" }, "geometry": { "type": "Point", "coordinates": [ -84.00417, 36.04444 ] } }
+,
+{ "type": "Feature", "id": 9745, "properties": { "LAYER": "Unknown Point Feature", "NAME": "KNOXVILLE", "COUNTRY": "USA", "ADDTLPLACE": "KNOXVILLE MUNI", "AIRPORTCOD": "OXV", "XCOORD": -93.11361, "YCOORD": 41.29861, "val": 18, "city": "Knoxville, TN, US", "modules": "18" }, "geometry": { "type": "Point", "coordinates": [ -93.11361, 41.29861 ] } }
+,
+{ "type": "Feature", "id": 9746, "properties": { "LAYER": "Unknown Point Feature", "NAME": "KNOXVILLE", "COUNTRY": "USA", "ADDTLPLACE": "KNOXVILLE DOWNTOWN ISLAND", "AIRPORTCOD": "DKX", "XCOORD": -83.87361, "YCOORD": 35.96361, "val": 18, "city": "Knoxville, TN, US", "modules": "18" }, "geometry": { "type": "Point", "coordinates": [ -83.87361, 35.96361 ] } }
+,
+{ "type": "Feature", "id": 9887, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LAS VEGAS", "COUNTRY": "USA", "ADDTLPLACE": "NELLIS AFB", "AIRPORTCOD": "LSV", "XCOORD": -115.03444, "YCOORD": 36.23556, "val": 58, "city": "Las Vegas, NV, US", "modules": "58" }, "geometry": { "type": "Point", "coordinates": [ -115.03444, 36.23556 ] } }
+,
+{ "type": "Feature", "id": 9888, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LAS VEGAS", "COUNTRY": "USA", "ADDTLPLACE": "HENDERSON", "AIRPORTCOD": "L15", "XCOORD": -115.1325, "YCOORD": 35.97611, "val": 58, "city": "Las Vegas, NV, US", "modules": "58" }, "geometry": { "type": "Point", "coordinates": [ -115.1325, 35.97611 ] } }
+,
+{ "type": "Feature", "id": 9889, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LAS VEGAS", "COUNTRY": "USA", "ADDTLPLACE": "LAS VEGAS-HENDERSON SKY HARBOR", "AIRPORTCOD": "HSH", "XCOORD": -115.13333, "YCOORD": 35.98333, "val": 58, "city": "Las Vegas, NV, US", "modules": "58" }, "geometry": { "type": "Point", "coordinates": [ -115.13333, 35.98333 ] } }
+,
+{ "type": "Feature", "id": 9890, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LAS VEGAS", "COUNTRY": "USA", "ADDTLPLACE": "NORTH LAS VEGAS", "AIRPORTCOD": "VGT", "XCOORD": -115.19556, "YCOORD": 36.21167, "val": 58, "city": "Las Vegas, NV, US", "modules": "58" }, "geometry": { "type": "Point", "coordinates": [ -115.19556, 36.21167 ] } }
+,
+{ "type": "Feature", "id": 9891, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LAS VEGAS", "COUNTRY": "USA", "ADDTLPLACE": "LAS VEGAS MUNI", "AIRPORTCOD": "LVS", "XCOORD": -105.14222, "YCOORD": 35.65417, "val": 58, "city": "Las Vegas, NV, US", "modules": "58" }, "geometry": { "type": "Point", "coordinates": [ -105.14222, 35.65417 ] } }
+,
+{ "type": "Feature", "id": 9892, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LAS VEGAS", "COUNTRY": "USA", "ADDTLPLACE": "MC CARRAN INTL", "AIRPORTCOD": "LAS", "XCOORD": -115.15028, "YCOORD": 36.08028, "val": 58, "city": "Las Vegas, NV, US", "modules": "58" }, "geometry": { "type": "Point", "coordinates": [ -115.15028, 36.08028 ] } }
+,
+{ "type": "Feature", "id": 9994, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LINCOLN", "COUNTRY": "USA", "ADDTLPLACE": "LINCOLN MUNICIPAL AIRPORT", "AIRPORTCOD": "O51", "XCOORD": -121.35, "YCOORD": 38.91667, "val": 64, "city": "Lincoln, NE, US", "modules": "64" }, "geometry": { "type": "Point", "coordinates": [ -121.35, 38.91667 ] } }
+,
+{ "type": "Feature", "id": 9995, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LINCOLN", "COUNTRY": "USA", "ADDTLPLACE": "LINCOLN REGIONAL\/KARL HARDER FIELD", "AIRPORTCOD": "LHM", "XCOORD": -121.35111, "YCOORD": 38.90889, "val": 64, "city": "Lincoln, NE, US", "modules": "64" }, "geometry": { "type": "Point", "coordinates": [ -121.35111, 38.90889 ] } }
+,
+{ "type": "Feature", "id": 9996, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LINCOLN", "COUNTRY": "USA", "ADDTLPLACE": "LOGAN COUNTY", "AIRPORTCOD": "3LC", "XCOORD": -89.33472, "YCOORD": 40.15833, "val": 64, "city": "Lincoln, NE, US", "modules": "64" }, "geometry": { "type": "Point", "coordinates": [ -89.33472, 40.15833 ] } }
+,
+{ "type": "Feature", "id": 9997, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LINCOLN", "COUNTRY": "USA", "ADDTLPLACE": "LINCOLN MUNI", "AIRPORTCOD": "K71", "XCOORD": -98.16694, "YCOORD": 39.05806, "val": 64, "city": "Lincoln, NE, US", "modules": "64" }, "geometry": { "type": "Point", "coordinates": [ -98.16694, 39.05806 ] } }
+,
+{ "type": "Feature", "id": 9998, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LINCOLN", "COUNTRY": "USA", "ADDTLPLACE": "LINCOLN REGIONAL", "AIRPORTCOD": "LRG", "XCOORD": -68.53472, "YCOORD": 45.36194, "val": 64, "city": "Lincoln, NE, US", "modules": "64" }, "geometry": { "type": "Point", "coordinates": [ -68.53472, 45.36194 ] } }
+,
+{ "type": "Feature", "id": 9999, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LINCOLN", "COUNTRY": "USA", "ADDTLPLACE": "LINCOLN MUNI", "AIRPORTCOD": "MO1", "XCOORD": -93.33278, "YCOORD": 38.40389, "val": 64, "city": "Lincoln, NE, US", "modules": "64" }, "geometry": { "type": "Point", "coordinates": [ -93.33278, 38.40389 ] } }
+,
+{ "type": "Feature", "id": 10000, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LINCOLN", "COUNTRY": "USA", "ADDTLPLACE": "LINCOLN", "AIRPORTCOD": "S69", "XCOORD": -112.64472, "YCOORD": 46.97472, "val": 64, "city": "Lincoln, NE, US", "modules": "64" }, "geometry": { "type": "Point", "coordinates": [ -112.64472, 46.97472 ] } }
+,
+{ "type": "Feature", "id": 10001, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LINCOLN", "COUNTRY": "USA", "ADDTLPLACE": "LINCOLN MUNI", "AIRPORTCOD": "LNK", "XCOORD": -96.75917, "YCOORD": 40.85083, "val": 64, "city": "Lincoln, NE, US", "modules": "64" }, "geometry": { "type": "Point", "coordinates": [ -96.75917, 40.85083 ] } }
+,
+{ "type": "Feature", "id": 10014, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LISBON", "COUNTRY": "USA", "ADDTLPLACE": "LISBON MUNI", "AIRPORTCOD": "ND3", "XCOORD": -97.72722, "YCOORD": 46.44639, "val": 38, "city": "Lisbon, PT", "modules": "38" }, "geometry": { "type": "Point", "coordinates": [ -97.72722, 46.44639 ] } }
+,
+{ "type": "Feature", "id": 10047, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LONDON", "COUNTRY": "USA", "ADDTLPLACE": "LONDON-CORBIN ARPT-MAGEE FLD", "AIRPORTCOD": "LOZ", "XCOORD": -84.07667, "YCOORD": 37.08722, "val": 511, "city": "London, ENG, GB", "modules": "511" }, "geometry": { "type": "Point", "coordinates": [ -84.07667, 37.08722 ] } }
+,
+{ "type": "Feature", "id": 10048, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LONDON", "COUNTRY": "USA", "ADDTLPLACE": "MADISON COUNTY", "AIRPORTCOD": "UYF", "XCOORD": -83.46194, "YCOORD": 39.9325, "val": 511, "city": "London, ENG, GB", "modules": "511" }, "geometry": { "type": "Point", "coordinates": [ -83.46194, 39.9325 ] } }
+,
+{ "type": "Feature", "id": 10072, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LOS ANGELES", "COUNTRY": "USA", "ADDTLPLACE": "WARNER BROTHERS STUDIOS", "AIRPORTCOD": "JWC", "XCOORD": -118.36667, "YCOORD": 34.03333, "val": 73, "city": "Los Angeles, CA, US", "modules": "73" }, "geometry": { "type": "Point", "coordinates": [ -118.36667, 34.03333 ] } }
+,
+{ "type": "Feature", "id": 10073, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LOS ANGELES", "COUNTRY": "USA", "ADDTLPLACE": "WHITEMAN", "AIRPORTCOD": "WHP", "XCOORD": -118.41333, "YCOORD": 34.25917, "val": 73, "city": "Los Angeles, CA, US", "modules": "73" }, "geometry": { "type": "Point", "coordinates": [ -118.41333, 34.25917 ] } }
+,
+{ "type": "Feature", "id": 10074, "properties": { "LAYER": "Unknown Point Feature", "NAME": "LOS ANGELES", "COUNTRY": "USA", "ADDTLPLACE": "LOS ANGELES INTL", "AIRPORTCOD": "LAX", "XCOORD": -118.40806, "YCOORD": 33.9425, "val": 73, "city": "Los Angeles, CA, US", "modules": "73" }, "geometry": { "type": "Point", "coordinates": [ -118.40806, 33.9425 ] } }
+,
+{ "type": "Feature", "id": 10138, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MADISON", "COUNTRY": "USA", "ADDTLPLACE": "MADISON MUNI", "AIRPORTCOD": "IMS", "XCOORD": -85.46528, "YCOORD": 38.75889, "val": 444, "city": "Madison, WI, US", "modules": "444" }, "geometry": { "type": "Point", "coordinates": [ -85.46528, 38.75889 ] } }
+,
+{ "type": "Feature", "id": 10139, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MADISON", "COUNTRY": "USA", "ADDTLPLACE": "MADISON MUNICIPAL AIRPORT", "AIRPORTCOD": "XMD", "XCOORD": -97.08333, "YCOORD": 44.01667, "val": 444, "city": "Madison, WI, US", "modules": "444" }, "geometry": { "type": "Point", "coordinates": [ -97.08333, 44.01667 ] } }
+,
+{ "type": "Feature", "id": 10140, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MADISON", "COUNTRY": "USA", "ADDTLPLACE": "BLACKHAWK AIRFIELD", "AIRPORTCOD": "52C", "XCOORD": -89.18333, "YCOORD": 43.1, "val": 444, "city": "Madison, WI, US", "modules": "444" }, "geometry": { "type": "Point", "coordinates": [ -89.18333, 43.1 ] } }
+,
+{ "type": "Feature", "id": 10141, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MADISON", "COUNTRY": "USA", "ADDTLPLACE": "BLACKHAWK AIRFIELD", "AIRPORTCOD": "87Y", "XCOORD": -89.18528, "YCOORD": 43.10472, "val": 444, "city": "Madison, WI, US", "modules": "444" }, "geometry": { "type": "Point", "coordinates": [ -89.18528, 43.10472 ] } }
+,
+{ "type": "Feature", "id": 10142, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MADISON", "COUNTRY": "USA", "ADDTLPLACE": "GRISWOLD", "AIRPORTCOD": "N04", "XCOORD": -72.54972, "YCOORD": 41.27111, "val": 444, "city": "Madison, WI, US", "modules": "444" }, "geometry": { "type": "Point", "coordinates": [ -72.54972, 41.27111 ] } }
+,
+{ "type": "Feature", "id": 10143, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MADISON", "COUNTRY": "USA", "ADDTLPLACE": "MADISON MUNI", "AIRPORTCOD": "52A", "XCOORD": -83.46028, "YCOORD": 33.61194, "val": 444, "city": "Madison, WI, US", "modules": "444" }, "geometry": { "type": "Point", "coordinates": [ -83.46028, 33.61194 ] } }
+,
+{ "type": "Feature", "id": 10144, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MADISON", "COUNTRY": "USA", "ADDTLPLACE": "MADISON MUNICIPAL AIRPORT", "AIRPORTCOD": "MDN", "XCOORD": -85.46667, "YCOORD": 38.76667, "val": 444, "city": "Madison, WI, US", "modules": "444" }, "geometry": { "type": "Point", "coordinates": [ -85.46667, 38.76667 ] } }
+,
+{ "type": "Feature", "id": 10145, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MADISON", "COUNTRY": "USA", "ADDTLPLACE": "MADISON-LAC QUI PARLE COUNTY", "AIRPORTCOD": "DXX", "XCOORD": -96.1775, "YCOORD": 44.98611, "val": 444, "city": "Madison, WI, US", "modules": "444" }, "geometry": { "type": "Point", "coordinates": [ -96.1775, 44.98611 ] } }
+,
+{ "type": "Feature", "id": 10146, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MADISON", "COUNTRY": "USA", "ADDTLPLACE": "BRUCE CAMPBELL FIELD", "AIRPORTCOD": "MBO", "XCOORD": -90.10306, "YCOORD": 32.43861, "val": 444, "city": "Madison, WI, US", "modules": "444" }, "geometry": { "type": "Point", "coordinates": [ -90.10306, 32.43861 ] } }
+,
+{ "type": "Feature", "id": 10147, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MADISON", "COUNTRY": "USA", "ADDTLPLACE": "MADISON MUNI", "AIRPORTCOD": "MDS", "XCOORD": -97.08583, "YCOORD": 44.01583, "val": 444, "city": "Madison, WI, US", "modules": "444" }, "geometry": { "type": "Point", "coordinates": [ -97.08583, 44.01583 ] } }
+,
+{ "type": "Feature", "id": 10148, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MADISON", "COUNTRY": "USA", "ADDTLPLACE": "DANE COUNTY REGIONAL-TRUAX FIELD", "AIRPORTCOD": "MSN", "XCOORD": -89.33667, "YCOORD": 43.13944, "val": 444, "city": "Madison, WI, US", "modules": "444" }, "geometry": { "type": "Point", "coordinates": [ -89.33667, 43.13944 ] } }
+,
+{ "type": "Feature", "id": 10182, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MANILA", "COUNTRY": "USA", "ADDTLPLACE": "MANILA MUNI", "AIRPORTCOD": "MXA", "XCOORD": -90.15444, "YCOORD": 35.89306, "val": 56, "city": "Manila, NCR, PH", "modules": "56" }, "geometry": { "type": "Point", "coordinates": [ -90.15444, 35.89306 ] } }
+,
+{ "type": "Feature", "id": 10183, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MANILA", "COUNTRY": "USA", "ADDTLPLACE": "MANILA", "AIRPORTCOD": "40U", "XCOORD": -109.67833, "YCOORD": 40.98583, "val": 56, "city": "Manila, NCR, PH", "modules": "56" }, "geometry": { "type": "Point", "coordinates": [ -109.67833, 40.98583 ] } }
+,
+{ "type": "Feature", "id": 10233, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MARION", "COUNTRY": "USA", "ADDTLPLACE": "MC BRIDE FIELD", "AIRPORTCOD": "C57", "XCOORD": -91.63333, "YCOORD": 42.06667, "val": 54, "city": "Marion, IL, US", "modules": "54" }, "geometry": { "type": "Point", "coordinates": [ -91.63333, 42.06667 ] } }
+,
+{ "type": "Feature", "id": 10234, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MARION", "COUNTRY": "USA", "ADDTLPLACE": "VAIDEN FIELD", "AIRPORTCOD": "AL0", "XCOORD": -87.38528, "YCOORD": 32.51222, "val": 54, "city": "Marion, IL, US", "modules": "54" }, "geometry": { "type": "Point", "coordinates": [ -87.38528, 32.51222 ] } }
+,
+{ "type": "Feature", "id": 10235, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MARION", "COUNTRY": "USA", "ADDTLPLACE": "MARION", "AIRPORTCOD": "C17", "XCOORD": -91.52917, "YCOORD": 42.03083, "val": 54, "city": "Marion, IL, US", "modules": "54" }, "geometry": { "type": "Point", "coordinates": [ -91.52917, 42.03083 ] } }
+,
+{ "type": "Feature", "id": 10236, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MARION", "COUNTRY": "USA", "ADDTLPLACE": "WILLIAMSON COUNTY REGIONAL", "AIRPORTCOD": "MWA", "XCOORD": -89.01139, "YCOORD": 37.75306, "val": 54, "city": "Marion, IL, US", "modules": "54" }, "geometry": { "type": "Point", "coordinates": [ -89.01139, 37.75306 ] } }
+,
+{ "type": "Feature", "id": 10237, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MARION", "COUNTRY": "USA", "ADDTLPLACE": "MARION MUNI", "AIRPORTCOD": "MZZ", "XCOORD": -85.67889, "YCOORD": 40.49028, "val": 54, "city": "Marion, IL, US", "modules": "54" }, "geometry": { "type": "Point", "coordinates": [ -85.67889, 40.49028 ] } }
+,
+{ "type": "Feature", "id": 10238, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MARION", "COUNTRY": "USA", "ADDTLPLACE": "MARION MUNI", "AIRPORTCOD": "43K", "XCOORD": -96.99167, "YCOORD": 38.3375, "val": 54, "city": "Marion, IL, US", "modules": "54" }, "geometry": { "type": "Point", "coordinates": [ -96.99167, 38.3375 ] } }
+,
+{ "type": "Feature", "id": 10239, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MARION", "COUNTRY": "USA", "ADDTLPLACE": "MARION-CRITTENDEN COUNTY", "AIRPORTCOD": "5M9", "XCOORD": -88.11111, "YCOORD": 37.33611, "val": 54, "city": "Marion, IL, US", "modules": "54" }, "geometry": { "type": "Point", "coordinates": [ -88.11111, 37.33611 ] } }
+,
+{ "type": "Feature", "id": 10240, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MARION", "COUNTRY": "USA", "ADDTLPLACE": "SHIFLET FIELD", "AIRPORTCOD": "9A9", "XCOORD": -82.00972, "YCOORD": 35.72056, "val": 54, "city": "Marion, IL, US", "modules": "54" }, "geometry": { "type": "Point", "coordinates": [ -82.00972, 35.72056 ] } }
+,
+{ "type": "Feature", "id": 10241, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MARION", "COUNTRY": "USA", "ADDTLPLACE": "MARION MUNI", "AIRPORTCOD": "MNN", "XCOORD": -83.06333, "YCOORD": 40.61611, "val": 54, "city": "Marion, IL, US", "modules": "54" }, "geometry": { "type": "Point", "coordinates": [ -83.06333, 40.61611 ] } }
+,
+{ "type": "Feature", "id": 10242, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MARION", "COUNTRY": "USA", "ADDTLPLACE": "MARION COUNTY", "AIRPORTCOD": "MAO", "XCOORD": -79.33444, "YCOORD": 34.18111, "val": 54, "city": "Marion, IL, US", "modules": "54" }, "geometry": { "type": "Point", "coordinates": [ -79.33444, 34.18111 ] } }
+,
+{ "type": "Feature", "id": 10361, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MELBOURNE", "COUNTRY": "USA", "ADDTLPLACE": "MELBOURNE MUNI", "AIRPORTCOD": "42A", "XCOORD": -91.82889, "YCOORD": 36.07056, "val": 254, "city": "Melbourne, AU", "modules": "254" }, "geometry": { "type": "Point", "coordinates": [ -91.82889, 36.07056 ] } }
+,
+{ "type": "Feature", "id": 10362, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MELBOURNE", "COUNTRY": "USA", "ADDTLPLACE": "MELBOURNE INTERNATIONAL", "AIRPORTCOD": "MLB", "XCOORD": -80.64556, "YCOORD": 28.1025, "val": 254, "city": "Melbourne, AU", "modules": "254" }, "geometry": { "type": "Point", "coordinates": [ -80.64556, 28.1025 ] } }
+,
+{ "type": "Feature", "id": 10398, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MIAMI", "COUNTRY": "USA", "ADDTLPLACE": "MIAMI HELIPORT", "AIRPORTCOD": "JDM", "XCOORD": -80.18333, "YCOORD": 25.76667, "val": 62, "city": "Miami, FL, US", "modules": "62" }, "geometry": { "type": "Point", "coordinates": [ -80.18333, 25.76667 ] } }
+,
+{ "type": "Feature", "id": 10399, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MIAMI", "COUNTRY": "USA", "ADDTLPLACE": "WATSON ISLAND INTL", "AIRPORTCOD": "X44", "XCOORD": -80.17028, "YCOORD": 25.77833, "val": 62, "city": "Miami, FL, US", "modules": "62" }, "geometry": { "type": "Point", "coordinates": [ -80.17028, 25.77833 ] } }
+,
+{ "type": "Feature", "id": 10400, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MIAMI", "COUNTRY": "USA", "ADDTLPLACE": "MIAMI", "AIRPORTCOD": "X48", "XCOORD": -80.17861, "YCOORD": 25.78528, "val": 62, "city": "Miami, FL, US", "modules": "62" }, "geometry": { "type": "Point", "coordinates": [ -80.17861, 25.78528 ] } }
+,
+{ "type": "Feature", "id": 10401, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MIAMI", "COUNTRY": "USA", "ADDTLPLACE": "OPA LOCKA", "AIRPORTCOD": "OPF", "XCOORD": -80.27833, "YCOORD": 25.90694, "val": 62, "city": "Miami, FL, US", "modules": "62" }, "geometry": { "type": "Point", "coordinates": [ -80.27833, 25.90694 ] } }
+,
+{ "type": "Feature", "id": 10402, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MIAMI", "COUNTRY": "USA", "ADDTLPLACE": "OPA LOCKA WEST", "AIRPORTCOD": "X46", "XCOORD": -80.42333, "YCOORD": 25.94889, "val": 62, "city": "Miami, FL, US", "modules": "62" }, "geometry": { "type": "Point", "coordinates": [ -80.42333, 25.94889 ] } }
+,
+{ "type": "Feature", "id": 10403, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MIAMI", "COUNTRY": "USA", "ADDTLPLACE": "KENDALL-TAMIAMI EXECUTIVE", "AIRPORTCOD": "TMB", "XCOORD": -80.4325, "YCOORD": 25.64778, "val": 62, "city": "Miami, FL, US", "modules": "62" }, "geometry": { "type": "Point", "coordinates": [ -80.4325, 25.64778 ] } }
+,
+{ "type": "Feature", "id": 10404, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MIAMI", "COUNTRY": "USA", "ADDTLPLACE": "DADE-COLLIER TRAINING", "AIRPORTCOD": "TNT", "XCOORD": -80.89694, "YCOORD": 25.86167, "val": 62, "city": "Miami, FL, US", "modules": "62" }, "geometry": { "type": "Point", "coordinates": [ -80.89694, 25.86167 ] } }
+,
+{ "type": "Feature", "id": 10405, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MIAMI", "COUNTRY": "USA", "ADDTLPLACE": "MIAMI INTL", "AIRPORTCOD": "MIA", "XCOORD": -80.29028, "YCOORD": 25.79306, "val": 62, "city": "Miami, FL, US", "modules": "62" }, "geometry": { "type": "Point", "coordinates": [ -80.29028, 25.79306 ] } }
+,
+{ "type": "Feature", "id": 10406, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MIAMI", "COUNTRY": "USA", "ADDTLPLACE": "MIAMI MUNI", "AIRPORTCOD": "MIO", "XCOORD": -94.8875, "YCOORD": 36.90917, "val": 62, "city": "Miami, FL, US", "modules": "62" }, "geometry": { "type": "Point", "coordinates": [ -94.8875, 36.90917 ] } }
+,
+{ "type": "Feature", "id": 10407, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MIAMI", "COUNTRY": "USA", "ADDTLPLACE": "MIAMI-ROBERTS COUNTY", "AIRPORTCOD": "3", "XCOORD": -100.60306, "YCOORD": 35.71389, "val": 62, "city": "Miami, FL, US", "modules": "62" }, "geometry": { "type": "Point", "coordinates": [ -100.60306, 35.71389 ] } }
+,
+{ "type": "Feature", "id": 10465, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MINNEAPOLIS", "COUNTRY": "USA", "ADDTLPLACE": "ANOKA COUNTY-BLAINE ARPT(JANES FIELD)", "AIRPORTCOD": "ANE", "XCOORD": -93.21139, "YCOORD": 45.145, "val": 16, "city": "Minneapolis, MN, US", "modules": "16" }, "geometry": { "type": "Point", "coordinates": [ -93.21139, 45.145 ] } }
+,
+{ "type": "Feature", "id": 10466, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MINNEAPOLIS", "COUNTRY": "USA", "ADDTLPLACE": "AIRLAKE", "AIRPORTCOD": "LVN", "XCOORD": -93.22806, "YCOORD": 44.62778, "val": 16, "city": "Minneapolis, MN, US", "modules": "16" }, "geometry": { "type": "Point", "coordinates": [ -93.22806, 44.62778 ] } }
+,
+{ "type": "Feature", "id": 10467, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MINNEAPOLIS", "COUNTRY": "USA", "ADDTLPLACE": "CRYSTAL", "AIRPORTCOD": "MIC", "XCOORD": -93.35389, "YCOORD": 45.06194, "val": 16, "city": "Minneapolis, MN, US", "modules": "16" }, "geometry": { "type": "Point", "coordinates": [ -93.35389, 45.06194 ] } }
+,
+{ "type": "Feature", "id": 10468, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MINNEAPOLIS", "COUNTRY": "USA", "ADDTLPLACE": "FLYING CLOUD", "AIRPORTCOD": "FCM", "XCOORD": -93.45694, "YCOORD": 44.82722, "val": 16, "city": "Minneapolis, MN, US", "modules": "16" }, "geometry": { "type": "Point", "coordinates": [ -93.45694, 44.82722 ] } }
+,
+{ "type": "Feature", "id": 10469, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MINNEAPOLIS", "COUNTRY": "USA", "ADDTLPLACE": "MINNEAPOLIS CITY COUNTY", "AIRPORTCOD": "45K", "XCOORD": -97.72056, "YCOORD": 39.09472, "val": 16, "city": "Minneapolis, MN, US", "modules": "16" }, "geometry": { "type": "Point", "coordinates": [ -97.72056, 39.09472 ] } }
+,
+{ "type": "Feature", "id": 10470, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MINNEAPOLIS", "COUNTRY": "USA", "ADDTLPLACE": "MINNEAPOLIS-ST PAUL INT", "AIRPORTCOD": "MSP", "XCOORD": -93.21667, "YCOORD": 44.88333, "val": 16, "city": "Minneapolis, MN, US", "modules": "16" }, "geometry": { "type": "Point", "coordinates": [ -93.21667, 44.88333 ] } }
+,
+{ "type": "Feature", "id": 10480, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MISSOULA", "COUNTRY": "USA", "ADDTLPLACE": "MISSOULA INTERNATIONAL", "AIRPORTCOD": "MSO", "XCOORD": -114.09056, "YCOORD": 46.91611, "val": 36, "city": "Missoula, MT, US", "modules": "36" }, "geometry": { "type": "Point", "coordinates": [ -114.09056, 46.91611 ] } }
+,
+{ "type": "Feature", "id": 10648, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MOUNTAIN VIEW", "COUNTRY": "USA", "ADDTLPLACE": "MOUNTAIN VIEW", "AIRPORTCOD": "MNF", "XCOORD": -91.71444, "YCOORD": 36.99278, "val": 80, "city": "Mountain View, CA, US", "modules": "80" }, "geometry": { "type": "Point", "coordinates": [ -91.71444, 36.99278 ] } }
+,
+{ "type": "Feature", "id": 10649, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MOUNTAIN VIEW", "COUNTRY": "USA", "ADDTLPLACE": "MOUNTAIN VIEW WILCOX MEMORIAL FIELD", "AIRPORTCOD": "7M2", "XCOORD": -92.09194, "YCOORD": 35.86444, "val": 80, "city": "Mountain View, CA, US", "modules": "80" }, "geometry": { "type": "Point", "coordinates": [ -92.09194, 35.86444 ] } }
+,
+{ "type": "Feature", "id": 10650, "properties": { "LAYER": "Unknown Point Feature", "NAME": "MOUNTAIN VIEW", "COUNTRY": "USA", "ADDTLPLACE": "MOFFETT FIELD NAVAL AIR STATION", "AIRPORTCOD": "NUQ", "XCOORD": -122.05, "YCOORD": 37.41667, "val": 80, "city": "Mountain View, CA, US", "modules": "80" }, "geometry": { "type": "Point", "coordinates": [ -122.05, 37.41667 ] } }
+,
+{ "type": "Feature", "id": 10693, "properties": { "LAYER": "Unknown Point Feature", "NAME": "NAPA", "COUNTRY": "USA", "ADDTLPLACE": "LAKE BERRYESSA", "AIRPORTCOD": "Q86", "XCOORD": -122.25917, "YCOORD": 38.59139, "val": 97, "city": "Napa, CA, US", "modules": "97" }, "geometry": { "type": "Point", "coordinates": [ -122.25917, 38.59139 ] } }
+,
+{ "type": "Feature", "id": 10694, "properties": { "LAYER": "Unknown Point Feature", "NAME": "NAPA", "COUNTRY": "USA", "ADDTLPLACE": "NAPA COUNTY", "AIRPORTCOD": "APC", "XCOORD": -122.28056, "YCOORD": 38.21306, "val": 97, "city": "Napa, CA, US", "modules": "97" }, "geometry": { "type": "Point", "coordinates": [ -122.28056, 38.21306 ] } }
+,
+{ "type": "Feature", "id": 10808, "properties": { "LAYER": "Unknown Point Feature", "NAME": "NEWCASTLE", "COUNTRY": "USA", "ADDTLPLACE": "MONDELL FIELD", "AIRPORTCOD": "ECS", "XCOORD": -104.31778, "YCOORD": 43.88528, "val": 50, "city": "Newcastle, AU", "modules": "50" }, "geometry": { "type": "Point", "coordinates": [ -104.31778, 43.88528 ] } }
+,
+{ "type": "Feature", "id": 10823, "properties": { "LAYER": "Unknown Point Feature", "NAME": "NEWPORT BEACH", "COUNTRY": "USA", "ADDTLPLACE": null, "AIRPORTCOD": "JNP", "XCOORD": -117.88333, "YCOORD": 33.6, "val": 21, "city": "Newport Beach, CA, US", "modules": "21" }, "geometry": { "type": "Point", "coordinates": [ -117.88333, 33.6 ] } }
+,
+{ "type": "Feature", "id": 10917, "properties": { "LAYER": "Unknown Point Feature", "NAME": "OAKLAND", "COUNTRY": "USA", "ADDTLPLACE": "GARRETT COUNTY", "AIRPORTCOD": "2G4", "XCOORD": -76.33917, "YCOORD": 39.58028, "val": 924, "city": "Oakland, CA, US", "modules": "924" }, "geometry": { "type": "Point", "coordinates": [ -76.33917, 39.58028 ] } }
+,
+{ "type": "Feature", "id": 10918, "properties": { "LAYER": "Unknown Point Feature", "NAME": "OAKLAND", "COUNTRY": "USA", "ADDTLPLACE": "METROPOLITAN OAKLAND INTL", "AIRPORTCOD": "OAK", "XCOORD": -122.22056, "YCOORD": 37.72111, "val": 924, "city": "Oakland, CA, US", "modules": "924" }, "geometry": { "type": "Point", "coordinates": [ -122.22056, 37.72111 ] } }
+,
+{ "type": "Feature", "id": 10919, "properties": { "LAYER": "Unknown Point Feature", "NAME": "OAKLAND", "COUNTRY": "USA", "ADDTLPLACE": "GARRETT COUNTY AIRPORT", "AIRPORTCOD": "ODM", "XCOORD": -76.33333, "YCOORD": 39.58333, "val": 924, "city": "Oakland, CA, US", "modules": "924" }, "geometry": { "type": "Point", "coordinates": [ -76.33333, 39.58333 ] } }
+,
+{ "type": "Feature", "id": 10920, "properties": { "LAYER": "Unknown Point Feature", "NAME": "OAKLAND", "COUNTRY": "USA", "ADDTLPLACE": "MOODY SNOW POND", "AIRPORTCOD": "82B", "XCOORD": -69.73667, "YCOORD": 44.53028, "val": 924, "city": "Oakland, CA, US", "modules": "924" }, "geometry": { "type": "Point", "coordinates": [ -69.73667, 44.53028 ] } }
+,
+{ "type": "Feature", "id": 11054, "properties": { "LAYER": "Unknown Point Feature", "NAME": "OTTAWA", "COUNTRY": "USA", "ADDTLPLACE": "SKYDIVE CHICAGO", "AIRPORTCOD": "C13", "XCOORD": -88.85917, "YCOORD": 41.36472, "val": 64, "city": "Ottawa, CA", "modules": "64" }, "geometry": { "type": "Point", "coordinates": [ -88.85917, 41.36472 ] } }
+,
+{ "type": "Feature", "id": 11055, "properties": { "LAYER": "Unknown Point Feature", "NAME": "OTTAWA", "COUNTRY": "USA", "ADDTLPLACE": "OTTAWA MUNI", "AIRPORTCOD": "OWI", "XCOORD": -95.25278, "YCOORD": 38.53861, "val": 64, "city": "Ottawa, CA", "modules": "64" }, "geometry": { "type": "Point", "coordinates": [ -95.25278, 38.53861 ] } }
+,
+{ "type": "Feature", "id": 11056, "properties": { "LAYER": "Unknown Point Feature", "NAME": "OTTAWA", "COUNTRY": "USA", "ADDTLPLACE": "PUTNAM COUNTY", "AIRPORTCOD": "OWX", "XCOORD": -83.98194, "YCOORD": 41.03556, "val": 64, "city": "Ottawa, CA", "modules": "64" }, "geometry": { "type": "Point", "coordinates": [ -83.98194, 41.03556 ] } }
+,
+{ "type": "Feature", "id": 11120, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PALO ALTO", "COUNTRY": "USA", "ADDTLPLACE": "PALO ALTO ARPT OF SANTA CLARA CO", "AIRPORTCOD": "PAO", "XCOORD": -122.115, "YCOORD": 37.46083, "val": 63, "city": "Palo Alto, CA, US", "modules": "63" }, "geometry": { "type": "Point", "coordinates": [ -122.115, 37.46083 ] } }
+,
+{ "type": "Feature", "id": 11136, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PARIS", "COUNTRY": "USA", "ADDTLPLACE": "BEAR LAKE COUNTY", "AIRPORTCOD": "1U7", "XCOORD": -111.33806, "YCOORD": 42.24694, "val": 83, "city": "Paris, FR", "modules": "83" }, "geometry": { "type": "Point", "coordinates": [ -111.33806, 42.24694 ] } }
+,
+{ "type": "Feature", "id": 11137, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PARIS", "COUNTRY": "USA", "ADDTLPLACE": "EDGAR COUNTY", "AIRPORTCOD": "PRG", "XCOORD": -87.67056, "YCOORD": 39.7, "val": 83, "city": "Paris, FR", "modules": "83" }, "geometry": { "type": "Point", "coordinates": [ -87.67056, 39.7 ] } }
+,
+{ "type": "Feature", "id": 11138, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PARIS", "COUNTRY": "USA", "ADDTLPLACE": "HENRY COUNTY", "AIRPORTCOD": "PHT", "XCOORD": -88.38278, "YCOORD": 36.33806, "val": 83, "city": "Paris, FR", "modules": "83" }, "geometry": { "type": "Point", "coordinates": [ -88.38278, 36.33806 ] } }
+,
+{ "type": "Feature", "id": 11139, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PARIS", "COUNTRY": "USA", "ADDTLPLACE": "COX FLD", "AIRPORTCOD": "PRX", "XCOORD": -95.45056, "YCOORD": 33.63639, "val": 83, "city": "Paris, FR", "modules": "83" }, "geometry": { "type": "Point", "coordinates": [ -95.45056, 33.63639 ] } }
+,
+{ "type": "Feature", "id": 11240, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PHILADELPHIA", "COUNTRY": "USA", "ADDTLPLACE": "PHILADELPHIA MUNI", "AIRPORTCOD": "MPE", "XCOORD": -89.12583, "YCOORD": 32.79944, "val": 244, "city": "Philadelphia, PA, US", "modules": "244" }, "geometry": { "type": "Point", "coordinates": [ -89.12583, 32.79944 ] } }
+,
+{ "type": "Feature", "id": 11241, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PHILADELPHIA", "COUNTRY": "USA", "ADDTLPLACE": "BAS\/RIVERFRONT HELIPORT", "AIRPORTCOD": "P97", "XCOORD": -75.13333, "YCOORD": 39.96667, "val": 244, "city": "Philadelphia, PA, US", "modules": "244" }, "geometry": { "type": "Point", "coordinates": [ -75.13333, 39.96667 ] } }
+,
+{ "type": "Feature", "id": 11242, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PHILADELPHIA", "COUNTRY": "USA", "ADDTLPLACE": null, "AIRPORTCOD": "WKV", "XCOORD": -75.3, "YCOORD": 39.85, "val": 244, "city": "Philadelphia, PA, US", "modules": "244" }, "geometry": { "type": "Point", "coordinates": [ -75.3, 39.85 ] } }
+,
+{ "type": "Feature", "id": 11243, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PHILADELPHIA", "COUNTRY": "USA", "ADDTLPLACE": "NORTHEAST PHILADELPHIA", "AIRPORTCOD": "PNE", "XCOORD": -75.01056, "YCOORD": 40.08167, "val": 244, "city": "Philadelphia, PA, US", "modules": "244" }, "geometry": { "type": "Point", "coordinates": [ -75.01056, 40.08167 ] } }
+,
+{ "type": "Feature", "id": 11244, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PHILADELPHIA", "COUNTRY": "USA", "ADDTLPLACE": "WINGS FIELD", "AIRPORTCOD": "N67", "XCOORD": -75.26694, "YCOORD": 40.13639, "val": 244, "city": "Philadelphia, PA, US", "modules": "244" }, "geometry": { "type": "Point", "coordinates": [ -75.26694, 40.13639 ] } }
+,
+{ "type": "Feature", "id": 11245, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PHILADELPHIA", "COUNTRY": "USA", "ADDTLPLACE": "PENN'S LANDING", "AIRPORTCOD": "P72", "XCOORD": -75.14111, "YCOORD": 39.93722, "val": 244, "city": "Philadelphia, PA, US", "modules": "244" }, "geometry": { "type": "Point", "coordinates": [ -75.14111, 39.93722 ] } }
+,
+{ "type": "Feature", "id": 11246, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PHILADELPHIA", "COUNTRY": "USA", "ADDTLPLACE": "PHILADELPHIA MUNICIPAL AIRPORT", "AIRPORTCOD": "PHI", "XCOORD": -89.13333, "YCOORD": 32.8, "val": 244, "city": "Philadelphia, PA, US", "modules": "244" }, "geometry": { "type": "Point", "coordinates": [ -89.13333, 32.8 ] } }
+,
+{ "type": "Feature", "id": 11247, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PHILADELPHIA", "COUNTRY": "USA", "ADDTLPLACE": "PHILADELPHIA INTL", "AIRPORTCOD": "PHL", "XCOORD": -75.245, "YCOORD": 39.87028, "val": 244, "city": "Philadelphia, PA, US", "modules": "244" }, "geometry": { "type": "Point", "coordinates": [ -75.245, 39.87028 ] } }
+,
+{ "type": "Feature", "id": 11258, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PHOENIX", "COUNTRY": "USA", "ADDTLPLACE": "WILLIAMS GATEWAY", "AIRPORTCOD": "IWA", "XCOORD": -111.65528, "YCOORD": 33.30778, "val": 203, "city": "Phoenix, AZ, US", "modules": "203" }, "geometry": { "type": "Point", "coordinates": [ -111.65528, 33.30778 ] } }
+,
+{ "type": "Feature", "id": 11259, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PHOENIX", "COUNTRY": "USA", "ADDTLPLACE": "PHOENIX-DEER VALLEY MUNI", "AIRPORTCOD": "DVT", "XCOORD": -112.0825, "YCOORD": 33.68806, "val": 203, "city": "Phoenix, AZ, US", "modules": "203" }, "geometry": { "type": "Point", "coordinates": [ -112.0825, 33.68806 ] } }
+,
+{ "type": "Feature", "id": 11260, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PHOENIX", "COUNTRY": "USA", "ADDTLPLACE": "PHOENIX SKY HARBOR INTL", "AIRPORTCOD": "PHX", "XCOORD": -112.00944, "YCOORD": 33.43583, "val": 203, "city": "Phoenix, AZ, US", "modules": "203" }, "geometry": { "type": "Point", "coordinates": [ -112.00944, 33.43583 ] } }
+,
+{ "type": "Feature", "id": 11422, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PORTLAND", "COUNTRY": "USA", "ADDTLPLACE": "PORTLAND-TROUTDALE", "AIRPORTCOD": "TTD", "XCOORD": -122.40111, "YCOORD": 45.54917, "val": 208, "city": "Portland, OR, US", "modules": "208" }, "geometry": { "type": "Point", "coordinates": [ -122.40111, 45.54917 ] } }
+,
+{ "type": "Feature", "id": 11423, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PORTLAND", "COUNTRY": "USA", "ADDTLPLACE": "PORTLAND-MULINO", "AIRPORTCOD": "4S9", "XCOORD": -122.59, "YCOORD": 45.21611, "val": 208, "city": "Portland, OR, US", "modules": "208" }, "geometry": { "type": "Point", "coordinates": [ -122.59, 45.21611 ] } }
+,
+{ "type": "Feature", "id": 11424, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PORTLAND", "COUNTRY": "USA", "ADDTLPLACE": "PORTLAND DOWNTOWN", "AIRPORTCOD": "61J", "XCOORD": -122.67083, "YCOORD": 45.51667, "val": 208, "city": "Portland, OR, US", "modules": "208" }, "geometry": { "type": "Point", "coordinates": [ -122.67083, 45.51667 ] } }
+,
+{ "type": "Feature", "id": 11425, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PORTLAND", "COUNTRY": "USA", "ADDTLPLACE": "PORTLAND-HILLSBORO", "AIRPORTCOD": "HIO", "XCOORD": -122.94972, "YCOORD": 45.54028, "val": 208, "city": "Portland, OR, US", "modules": "208" }, "geometry": { "type": "Point", "coordinates": [ -122.94972, 45.54028 ] } }
+,
+{ "type": "Feature", "id": 11426, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PORTLAND", "COUNTRY": "USA", "ADDTLPLACE": "PORTLAND MUNI", "AIRPORTCOD": "PLD", "XCOORD": -84.99, "YCOORD": 40.45056, "val": 208, "city": "Portland, OR, US", "modules": "208" }, "geometry": { "type": "Point", "coordinates": [ -84.99, 40.45056 ] } }
+,
+{ "type": "Feature", "id": 11427, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PORTLAND", "COUNTRY": "USA", "ADDTLPLACE": "PORTLAND INTL JETPORT", "AIRPORTCOD": "PWM", "XCOORD": -70.30861, "YCOORD": 43.64611, "val": 208, "city": "Portland, OR, US", "modules": "208" }, "geometry": { "type": "Point", "coordinates": [ -70.30861, 43.64611 ] } }
+,
+{ "type": "Feature", "id": 11428, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PORTLAND", "COUNTRY": "USA", "ADDTLPLACE": "PORTLAND INTL", "AIRPORTCOD": "PDX", "XCOORD": -122.5975, "YCOORD": 45.58861, "val": 208, "city": "Portland, OR, US", "modules": "208" }, "geometry": { "type": "Point", "coordinates": [ -122.5975, 45.58861 ] } }
+,
+{ "type": "Feature", "id": 11429, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PORTLAND", "COUNTRY": "USA", "ADDTLPLACE": "PORTLAND MUNI", "AIRPORTCOD": "1M5", "XCOORD": -86.47667, "YCOORD": 36.59278, "val": 208, "city": "Portland, OR, US", "modules": "208" }, "geometry": { "type": "Point", "coordinates": [ -86.47667, 36.59278 ] } }
+,
+{ "type": "Feature", "id": 11430, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PORTLAND", "COUNTRY": "USA", "ADDTLPLACE": "HUNT", "AIRPORTCOD": "9R5", "XCOORD": -97.35417, "YCOORD": 27.88778, "val": 208, "city": "Portland, OR, US", "modules": "208" }, "geometry": { "type": "Point", "coordinates": [ -97.35417, 27.88778 ] } }
+,
+{ "type": "Feature", "id": 11444, "properties": { "LAYER": "Unknown Point Feature", "NAME": "POUGHKEEPSIE", "COUNTRY": "USA", "ADDTLPLACE": "DUTCHESS COUNTY", "AIRPORTCOD": "POU", "XCOORD": -73.88389, "YCOORD": 41.62639, "val": 14, "city": "Poughkeepsie, NY, US", "modules": "14" }, "geometry": { "type": "Point", "coordinates": [ -73.88389, 41.62639 ] } }
+,
+{ "type": "Feature", "id": 11450, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PRAGUE", "COUNTRY": "USA", "ADDTLPLACE": "PRAGUE MUNI", "AIRPORTCOD": "OK1", "XCOORD": -96.71861, "YCOORD": 35.48194, "val": 40, "city": "Prague, CZ", "modules": "40" }, "geometry": { "type": "Point", "coordinates": [ -96.71861, 35.48194 ] } }
+,
+{ "type": "Feature", "id": 11492, "properties": { "LAYER": "Unknown Point Feature", "NAME": "PROVO", "COUNTRY": "USA", "ADDTLPLACE": "PROVO MUNI", "AIRPORTCOD": "PVU", "XCOORD": -111.72139, "YCOORD": 40.21556, "val": 157, "city": "Provo, UT, US", "modules": "157" }, "geometry": { "type": "Point", "coordinates": [ -111.72139, 40.21556 ] } }
+,
+{ "type": "Feature", "id": 11585, "properties": { "LAYER": "Unknown Point Feature", "NAME": "REDMOND", "COUNTRY": "USA", "ADDTLPLACE": "ROBERTS FIELD", "AIRPORTCOD": "RDM", "XCOORD": -121.14972, "YCOORD": 44.25389, "val": 16, "city": "Redmond, WA, US", "modules": "16" }, "geometry": { "type": "Point", "coordinates": [ -121.14972, 44.25389 ] } }
+,
+{ "type": "Feature", "id": 11660, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ROCHESTER", "COUNTRY": "USA", "ADDTLPLACE": "FULTON COUNTY", "AIRPORTCOD": "RCR", "XCOORD": -86.1825, "YCOORD": 41.06556, "val": 50, "city": "Rochester, NY, US", "modules": "50" }, "geometry": { "type": "Point", "coordinates": [ -86.1825, 41.06556 ] } }
+,
+{ "type": "Feature", "id": 11661, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ROCHESTER", "COUNTRY": "USA", "ADDTLPLACE": "ROCHESTER INTERNATIONAL", "AIRPORTCOD": "RST", "XCOORD": -92.49778, "YCOORD": 43.90861, "val": 50, "city": "Rochester, NY, US", "modules": "50" }, "geometry": { "type": "Point", "coordinates": [ -92.49778, 43.90861 ] } }
+,
+{ "type": "Feature", "id": 11662, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ROCHESTER", "COUNTRY": "USA", "ADDTLPLACE": "SKYHAVEN", "AIRPORTCOD": "6B1", "XCOORD": -70.92917, "YCOORD": 43.28389, "val": 50, "city": "Rochester, NY, US", "modules": "50" }, "geometry": { "type": "Point", "coordinates": [ -70.92917, 43.28389 ] } }
+,
+{ "type": "Feature", "id": 11663, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ROCHESTER", "COUNTRY": "USA", "ADDTLPLACE": "GREATER ROCHESTER INTERNATIONAL", "AIRPORTCOD": "ROC", "XCOORD": -77.67222, "YCOORD": 43.11861, "val": 50, "city": "Rochester, NY, US", "modules": "50" }, "geometry": { "type": "Point", "coordinates": [ -77.67222, 43.11861 ] } }
+,
+{ "type": "Feature", "id": 11664, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ROCHESTER", "COUNTRY": "USA", "ADDTLPLACE": "FOX RIVER", "AIRPORTCOD": "96C", "XCOORD": -88.25083, "YCOORD": 42.75, "val": 50, "city": "Rochester, NY, US", "modules": "50" }, "geometry": { "type": "Point", "coordinates": [ -88.25083, 42.75 ] } }
+,
+{ "type": "Feature", "id": 11665, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ROCHESTER", "COUNTRY": "USA", "ADDTLPLACE": "R AND K SKYRANCH", "AIRPORTCOD": "WA5", "XCOORD": -123.09139, "YCOORD": 46.8325, "val": 50, "city": "Rochester, NY, US", "modules": "50" }, "geometry": { "type": "Point", "coordinates": [ -123.09139, 46.8325 ] } }
+,
+{ "type": "Feature", "id": 11698, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ROME", "COUNTRY": "USA", "ADDTLPLACE": "BECKS GROVE", "AIRPORTCOD": "NY4", "XCOORD": -75.60361, "YCOORD": 43.25833, "val": 39, "city": "Rome, IT", "modules": "39" }, "geometry": { "type": "Point", "coordinates": [ -75.60361, 43.25833 ] } }
+,
+{ "type": "Feature", "id": 11699, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ROME", "COUNTRY": "USA", "ADDTLPLACE": "RICHARD B RUSSELL", "AIRPORTCOD": "RMG", "XCOORD": -85.15778, "YCOORD": 34.35056, "val": 39, "city": "Rome, IT", "modules": "39" }, "geometry": { "type": "Point", "coordinates": [ -85.15778, 34.35056 ] } }
+,
+{ "type": "Feature", "id": 11700, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ROME", "COUNTRY": "USA", "ADDTLPLACE": "GRIFFISS AIRFIELD", "AIRPORTCOD": "RME", "XCOORD": -75.40694, "YCOORD": 43.23389, "val": 39, "city": "Rome, IT", "modules": "39" }, "geometry": { "type": "Point", "coordinates": [ -75.40694, 43.23389 ] } }
+,
+{ "type": "Feature", "id": 11701, "properties": { "LAYER": "Unknown Point Feature", "NAME": "ROME", "COUNTRY": "USA", "ADDTLPLACE": "ROME STATE", "AIRPORTCOD": "REO", "XCOORD": -117.88528, "YCOORD": 42.5775, "val": 39, "city": "Rome, IT", "modules": "39" }, "geometry": { "type": "Point", "coordinates": [ -117.88528, 42.5775 ] } }
+,
+{ "type": "Feature", "id": 11822, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SAN DIEGO", "COUNTRY": "USA", "ADDTLPLACE": "BROWN FIELD MUNI", "AIRPORTCOD": "SDM", "XCOORD": -116.98, "YCOORD": 32.57222, "val": 37, "city": "San Diego, CA, US", "modules": "37" }, "geometry": { "type": "Point", "coordinates": [ -116.98, 32.57222 ] } }
+,
+{ "type": "Feature", "id": 11823, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SAN DIEGO", "COUNTRY": "USA", "ADDTLPLACE": "MONTGOMERY FIELD", "AIRPORTCOD": "MYF", "XCOORD": -117.14028, "YCOORD": 32.81583, "val": 37, "city": "San Diego, CA, US", "modules": "37" }, "geometry": { "type": "Point", "coordinates": [ -117.14028, 32.81583 ] } }
+,
+{ "type": "Feature", "id": 11824, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SAN DIEGO", "COUNTRY": "USA", "ADDTLPLACE": "NORTH ISLAND NAS \/HALSEY FIELD\/", "AIRPORTCOD": "NZY", "XCOORD": -117.21528, "YCOORD": 32.69917, "val": 37, "city": "San Diego, CA, US", "modules": "37" }, "geometry": { "type": "Point", "coordinates": [ -117.21528, 32.69917 ] } }
+,
+{ "type": "Feature", "id": 11825, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SAN DIEGO", "COUNTRY": "USA", "ADDTLPLACE": "MIRAMAR NAVAL AIR STATION", "AIRPORTCOD": "NKX", "XCOORD": -117.11667, "YCOORD": 32.85, "val": 37, "city": "San Diego, CA, US", "modules": "37" }, "geometry": { "type": "Point", "coordinates": [ -117.11667, 32.85 ] } }
+,
+{ "type": "Feature", "id": 11826, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SAN DIEGO", "COUNTRY": "USA", "ADDTLPLACE": "SAN DIEGO INTL-LINDBERGH FLD", "AIRPORTCOD": "SAN", "XCOORD": -117.18944, "YCOORD": 32.73333, "val": 37, "city": "San Diego, CA, US", "modules": "37" }, "geometry": { "type": "Point", "coordinates": [ -117.18944, 32.73333 ] } }
+,
+{ "type": "Feature", "id": 11828, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SAN FRANCISCO", "COUNTRY": "USA", "ADDTLPLACE": "SAN FRANCISCO INTL", "AIRPORTCOD": "SFO", "XCOORD": -122.37472, "YCOORD": 37.61889, "val": 1857, "city": "San Francisco, CA, US", "modules": "1857" }, "geometry": { "type": "Point", "coordinates": [ -122.37472, 37.61889 ] } }
+,
+{ "type": "Feature", "id": 11829, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SAN JOSE", "COUNTRY": "USA", "ADDTLPLACE": "SAN JOSE INTERNATIONAL", "AIRPORTCOD": "SJC", "XCOORD": -121.92889, "YCOORD": 37.36167, "val": 16, "city": "San Jose, CA, US", "modules": "16" }, "geometry": { "type": "Point", "coordinates": [ -121.92889, 37.36167 ] } }
+,
+{ "type": "Feature", "id": 11830, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SAN JOSE", "COUNTRY": "USA", "ADDTLPLACE": "REID-HILLVIEW OF SANTA CLARA COUNTY", "AIRPORTCOD": "RHV", "XCOORD": -121.81972, "YCOORD": 37.33278, "val": 16, "city": "San Jose, CA, US", "modules": "16" }, "geometry": { "type": "Point", "coordinates": [ -121.81972, 37.33278 ] } }
+,
+{ "type": "Feature", "id": 11841, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SAN RAFAEL", "COUNTRY": "USA", "ADDTLPLACE": "HAMILTON FIELD", "AIRPORTCOD": "SRF", "XCOORD": -122.5, "YCOORD": 38.06667, "val": 138, "city": "San Rafael, CA, US", "modules": "138" }, "geometry": { "type": "Point", "coordinates": [ -122.5, 38.06667 ] } }
+,
+{ "type": "Feature", "id": 11872, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SANTA MONICA", "COUNTRY": "USA", "ADDTLPLACE": "SANTA MONICA MUNI", "AIRPORTCOD": "SMO", "XCOORD": -118.45111, "YCOORD": 34.01556, "val": 17, "city": "Santa Monica, CA, US", "modules": "17" }, "geometry": { "type": "Point", "coordinates": [ -118.45111, 34.01556 ] } }
+,
+{ "type": "Feature", "id": 11924, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SEATTLE", "COUNTRY": "USA", "ADDTLPLACE": "BOEING FIELD\/KING COUNTY INTL", "AIRPORTCOD": "BFI", "XCOORD": -122.30194, "YCOORD": 47.52972, "val": 82, "city": "Seattle, WA, US", "modules": "82" }, "geometry": { "type": "Point", "coordinates": [ -122.30194, 47.52972 ] } }
+,
+{ "type": "Feature", "id": 11925, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SEATTLE", "COUNTRY": "USA", "ADDTLPLACE": "LAKE UNION CHRYSLER AIR", "AIRPORTCOD": "0W0", "XCOORD": -122.33167, "YCOORD": 47.6275, "val": 82, "city": "Seattle, WA, US", "modules": "82" }, "geometry": { "type": "Point", "coordinates": [ -122.33167, 47.6275 ] } }
+,
+{ "type": "Feature", "id": 11926, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SEATTLE", "COUNTRY": "USA", "ADDTLPLACE": "LAKE UNION CHRYSLER AIR SEAPLANE", "AIRPORTCOD": "LKE", "XCOORD": -122.33333, "YCOORD": 47.63333, "val": 82, "city": "Seattle, WA, US", "modules": "82" }, "geometry": { "type": "Point", "coordinates": [ -122.33333, 47.63333 ] } }
+,
+{ "type": "Feature", "id": 11927, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SEATTLE", "COUNTRY": "USA", "ADDTLPLACE": "KENMORE AIR HARBOR", "AIRPORTCOD": "WA5", "XCOORD": -122.33861, "YCOORD": 47.62889, "val": 82, "city": "Seattle, WA, US", "modules": "82" }, "geometry": { "type": "Point", "coordinates": [ -122.33861, 47.62889 ] } }
+,
+{ "type": "Feature", "id": 11928, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SEATTLE", "COUNTRY": "USA", "ADDTLPLACE": "SEATTLE-TACOMA INTL", "AIRPORTCOD": "SEA", "XCOORD": -122.30917, "YCOORD": 47.44889, "val": 82, "city": "Seattle, WA, US", "modules": "82" }, "geometry": { "type": "Point", "coordinates": [ -122.30917, 47.44889 ] } }
+,
+{ "type": "Feature", "id": 12126, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SOUTHAMPTON", "COUNTRY": "USA", "ADDTLPLACE": "SOUTHAMPTON", "AIRPORTCOD": "87N", "XCOORD": -72.46389, "YCOORD": 40.84722, "val": 56, "city": "Southampton, ENG, GB", "modules": "56" }, "geometry": { "type": "Point", "coordinates": [ -72.46389, 40.84722 ] } }
+,
+{ "type": "Feature", "id": 12151, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SPOKANE", "COUNTRY": "USA", "ADDTLPLACE": "FELTS FIELD", "AIRPORTCOD": "SFF", "XCOORD": -117.3225, "YCOORD": 47.68278, "val": 14, "city": "Spokane, WA, US", "modules": "14" }, "geometry": { "type": "Point", "coordinates": [ -117.3225, 47.68278 ] } }
+,
+{ "type": "Feature", "id": 12152, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SPOKANE", "COUNTRY": "USA", "ADDTLPLACE": "FAIRCHILD AFB", "AIRPORTCOD": "SKA", "XCOORD": -117.65778, "YCOORD": 47.61472, "val": 14, "city": "Spokane, WA, US", "modules": "14" }, "geometry": { "type": "Point", "coordinates": [ -117.65778, 47.61472 ] } }
+,
+{ "type": "Feature", "id": 12153, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SPOKANE", "COUNTRY": "USA", "ADDTLPLACE": "SPOKANE INTL", "AIRPORTCOD": "GEG", "XCOORD": -117.53361, "YCOORD": 47.61972, "val": 14, "city": "Spokane, WA, US", "modules": "14" }, "geometry": { "type": "Point", "coordinates": [ -117.53361, 47.61972 ] } }
+,
+{ "type": "Feature", "id": 12524, "properties": { "LAYER": "Unknown Point Feature", "NAME": "TORONTO", "COUNTRY": "USA", "ADDTLPLACE": "EDDIE DEW MEMORIAL AIRPARK", "AIRPORTCOD": "1G8", "XCOORD": -80.62806, "YCOORD": 40.47583, "val": 58, "city": "Toronto, CA", "modules": "58" }, "geometry": { "type": "Point", "coordinates": [ -80.62806, 40.47583 ] } }
+,
+{ "type": "Feature", "id": 12676, "properties": { "LAYER": "Unknown Point Feature", "NAME": "VANCOUVER", "COUNTRY": "USA", "ADDTLPLACE": "PEARSON AIRPARK", "AIRPORTCOD": "60S", "XCOORD": -122.65, "YCOORD": 45.61667, "val": 217, "city": "Vancouver, CA", "modules": "217" }, "geometry": { "type": "Point", "coordinates": [ -122.65, 45.61667 ] } }
+,
+{ "type": "Feature", "id": 12677, "properties": { "LAYER": "Unknown Point Feature", "NAME": "VANCOUVER", "COUNTRY": "USA", "ADDTLPLACE": "FLY FOR FUN", "AIRPORTCOD": "W56", "XCOORD": -122.52194, "YCOORD": 45.68722, "val": 217, "city": "Vancouver, CA", "modules": "217" }, "geometry": { "type": "Point", "coordinates": [ -122.52194, 45.68722 ] } }
+,
+{ "type": "Feature", "id": 12678, "properties": { "LAYER": "Unknown Point Feature", "NAME": "VANCOUVER", "COUNTRY": "USA", "ADDTLPLACE": "EVERGREEN FIELD", "AIRPORTCOD": "59S", "XCOORD": -122.52889, "YCOORD": 45.62194, "val": 217, "city": "Vancouver, CA", "modules": "217" }, "geometry": { "type": "Point", "coordinates": [ -122.52889, 45.62194 ] } }
+,
+{ "type": "Feature", "id": 12679, "properties": { "LAYER": "Unknown Point Feature", "NAME": "VANCOUVER", "COUNTRY": "USA", "ADDTLPLACE": "PEARSON FIELD", "AIRPORTCOD": "VUO", "XCOORD": -122.65639, "YCOORD": 45.62028, "val": 217, "city": "Vancouver, CA", "modules": "217" }, "geometry": { "type": "Point", "coordinates": [ -122.65639, 45.62028 ] } }
+,
+{ "type": "Feature", "id": 12787, "properties": { "LAYER": "Unknown Point Feature", "NAME": "WARSAW", "COUNTRY": "USA", "ADDTLPLACE": "WARSAW MUNI", "AIRPORTCOD": "ASW", "XCOORD": -85.84139, "YCOORD": 41.27472, "val": 84, "city": "Warsaw, PL", "modules": "84" }, "geometry": { "type": "Point", "coordinates": [ -85.84139, 41.27472 ] } }
+,
+{ "type": "Feature", "id": 12788, "properties": { "LAYER": "Unknown Point Feature", "NAME": "WARSAW", "COUNTRY": "USA", "ADDTLPLACE": "HARRY S TRUMAN DAM AND RESERVOIR", "AIRPORTCOD": "75U", "XCOORD": -93.41667, "YCOORD": 38.21667, "val": 84, "city": "Warsaw, PL", "modules": "84" }, "geometry": { "type": "Point", "coordinates": [ -93.41667, 38.21667 ] } }
+,
+{ "type": "Feature", "id": 12794, "properties": { "LAYER": "Unknown Point Feature", "NAME": "WASHINGTON", "COUNTRY": "USA", "ADDTLPLACE": "WASHINGTON COUNTY", "AIRPORTCOD": "AFJ", "XCOORD": -80.29, "YCOORD": 40.13639, "val": 194, "city": "Washington, D. C., DC, US", "modules": "194" }, "geometry": { "type": "Point", "coordinates": [ -80.29, 40.13639 ] } }
+,
+{ "type": "Feature", "id": 12795, "properties": { "LAYER": "Unknown Point Feature", "NAME": "WASHINGTON", "COUNTRY": "USA", "ADDTLPLACE": "WASHINGTON DULLES INTERNATIONAL", "AIRPORTCOD": "IAD", "XCOORD": -77.45556, "YCOORD": 38.94444, "val": 194, "city": "Washington, D. C., DC, US", "modules": "194" }, "geometry": { "type": "Point", "coordinates": [ -77.45556, 38.94444 ] } }
+,
+{ "type": "Feature", "id": 12796, "properties": { "LAYER": "Unknown Point Feature", "NAME": "WASHINGTON", "COUNTRY": "USA", "ADDTLPLACE": "WASHINGTON-WILKES COUNTY", "AIRPORTCOD": "IIY", "XCOORD": -82.81639, "YCOORD": 33.77972, "val": 194, "city": "Washington, D. C., DC, US", "modules": "194" }, "geometry": { "type": "Point", "coordinates": [ -82.81639, 33.77972 ] } }
+,
+{ "type": "Feature", "id": 12797, "properties": { "LAYER": "Unknown Point Feature", "NAME": "WASHINGTON", "COUNTRY": "USA", "ADDTLPLACE": "WASHINGTON MUNI", "AIRPORTCOD": "AWG", "XCOORD": -91.67333, "YCOORD": 41.27583, "val": 194, "city": "Washington, D. C., DC, US", "modules": "194" }, "geometry": { "type": "Point", "coordinates": [ -91.67333, 41.27583 ] } }
+,
+{ "type": "Feature", "id": 12798, "properties": { "LAYER": "Unknown Point Feature", "NAME": "WASHINGTON", "COUNTRY": "USA", "ADDTLPLACE": "DAVIESS COUNTY", "AIRPORTCOD": "DCY", "XCOORD": -87.12972, "YCOORD": 38.70028, "val": 194, "city": "Washington, D. C., DC, US", "modules": "194" }, "geometry": { "type": "Point", "coordinates": [ -87.12972, 38.70028 ] } }
+,
+{ "type": "Feature", "id": 12799, "properties": { "LAYER": "Unknown Point Feature", "NAME": "WASHINGTON", "COUNTRY": "USA", "ADDTLPLACE": "WASHINGTON COUNTY MEMORIAL", "AIRPORTCOD": "K38", "XCOORD": -97.0475, "YCOORD": 39.73333, "val": 194, "city": "Washington, D. C., DC, US", "modules": "194" }, "geometry": { "type": "Point", "coordinates": [ -97.0475, 39.73333 ] } }
+,
+{ "type": "Feature", "id": 12800, "properties": { "LAYER": "Unknown Point Feature", "NAME": "WASHINGTON", "COUNTRY": "USA", "ADDTLPLACE": "WASHINGTON MEMORIAL", "AIRPORTCOD": "MO4", "XCOORD": -90.9975, "YCOORD": 38.59139, "val": 194, "city": "Washington, D. C., DC, US", "modules": "194" }, "geometry": { "type": "Point", "coordinates": [ -90.9975, 38.59139 ] } }
+,
+{ "type": "Feature", "id": 12801, "properties": { "LAYER": "Unknown Point Feature", "NAME": "WASHINGTON", "COUNTRY": "USA", "ADDTLPLACE": "WARREN FIELD", "AIRPORTCOD": "OCW", "XCOORD": -77.04972, "YCOORD": 35.57028, "val": 194, "city": "Washington, D. C., DC, US", "modules": "194" }, "geometry": { "type": "Point", "coordinates": [ -77.04972, 35.57028 ] } }
+,
+{ "type": "Feature", "id": 12802, "properties": { "LAYER": "Unknown Point Feature", "NAME": "WASHINGTON", "COUNTRY": "USA", "ADDTLPLACE": "WASHINGTON COUNTY AIRPORT", "AIRPORTCOD": "WSG", "XCOORD": -80.28333, "YCOORD": 40.13333, "val": 194, "city": "Washington, D. C., DC, US", "modules": "194" }, "geometry": { "type": "Point", "coordinates": [ -80.28333, 40.13333 ] } }
+,
+{ "type": "Feature", "id": 12803, "properties": { "LAYER": "Unknown Point Feature", "NAME": "WASHINGTON", "COUNTRY": "USA", "ADDTLPLACE": "WASHINGTON NATIONAL", "AIRPORTCOD": "DCA", "XCOORD": -77.0375, "YCOORD": 38.85194, "val": 194, "city": "Washington, D. C., DC, US", "modules": "194" }, "geometry": { "type": "Point", "coordinates": [ -77.0375, 38.85194 ] } }
+,
+{ "type": "Feature", "id": 12871, "properties": { "LAYER": "Unknown Point Feature", "NAME": "WELLINGTON", "COUNTRY": "USA", "ADDTLPLACE": "WELLINGTON MUNI", "AIRPORTCOD": "EGT", "XCOORD": -97.38722, "YCOORD": 37.32417, "val": 115, "city": "Wellington, NZ", "modules": "115" }, "geometry": { "type": "Point", "coordinates": [ -97.38722, 37.32417 ] } }
+,
+{ "type": "Feature", "id": 12872, "properties": { "LAYER": "Unknown Point Feature", "NAME": "WELLINGTON", "COUNTRY": "USA", "ADDTLPLACE": "BOTSFORD", "AIRPORTCOD": "67D", "XCOORD": -82.2025, "YCOORD": 41.1625, "val": 115, "city": "Wellington, NZ", "modules": "115" }, "geometry": { "type": "Point", "coordinates": [ -82.2025, 41.1625 ] } }
+,
+{ "type": "Feature", "id": 12873, "properties": { "LAYER": "Unknown Point Feature", "NAME": "WELLINGTON", "COUNTRY": "USA", "ADDTLPLACE": "MARIAN AIRPARK", "AIRPORTCOD": "F06", "XCOORD": -100.19583, "YCOORD": 34.84556, "val": 115, "city": "Wellington, NZ", "modules": "115" }, "geometry": { "type": "Point", "coordinates": [ -100.19583, 34.84556 ] } }
+,
+{ "type": "Feature", "id": 13160, "properties": { "LAYER": "Unknown Point Feature", "NAME": "BARCELONA", "COUNTRY": "VENEZUELA", "ADDTLPLACE": "JOSE A. ANZOATEGUI", "AIRPORTCOD": "BLA", "XCOORD": -64.68333, "YCOORD": 10.11667, "val": 20, "city": "Barcelona, ES", "modules": "20" }, "geometry": { "type": "Point", "coordinates": [ -64.68333, 10.11667 ] } }
+
+]
+}
