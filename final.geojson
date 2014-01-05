@@ -128,7 +128,7 @@
 ,
 { "type": "Feature", "id": 62, "properties": { "LAYER": "Unknown Point Feature", "NAME": "RIGA", "COUNTRY": "LATVIA", "ADDTLPLACE": "SPILVE", "AIRPORTCOD": "RIX", "XCOORD": 24.23333, "YCOORD": 56.88333, "val": 64, "city": "Riga, LV", "modules": "64", "size": 4, "sizesmall": 1.2 }, "geometry": { "type": "Point", "coordinates": [ 24.23333, 56.88333 ] } }
 ,
-{ "type": "Feature", "id": 63, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SKOPJE", "COUNTRY": "MACEDONIA", "ADDTLPLACE": "PETROVAC", "AIRPORTCOD": "SKP", "XCOORD": 1.63333, "YCOORD": 41.96667, "val": 56, "city": "Skopje, MK", "modules": "56", "size": 3, "sizesmall": 0.9 }, "geometry": { "type": "Point", "coordinates": [ 1.63333, 41.96667 ] } }
+{ "type": "Feature", "id": 63, "properties": { "LAYER": "Unknown Point Feature", "NAME": "SKOPJE", "COUNTRY": "MACEDONIA", "ADDTLPLACE": "PETROVAC", "AIRPORTCOD": "SKP", "XCOORD": 21.44000, "YCOORD": 42.00000, "val": 56, "city": "Skopje, MK", "modules": "56", "size": 3, "sizesmall": 0.9 }, "geometry": { "type": "Point", "coordinates": [ 21.44000, 42.00000 ] } }
 ,
 { "type": "Feature", "id": 64, "properties": { "LAYER": "Unknown Point Feature", "NAME": "AMSTERDAM", "COUNTRY": "NETHERLANDS", "ADDTLPLACE": "SCHIPHOL", "AIRPORTCOD": "SPL", "XCOORD": 4.76667, "YCOORD": 52.3, "val": 53, "city": "Amsterdam, NL", "modules": "53", "size": 3, "sizesmall": 0.9 }, "geometry": { "type": "Point", "coordinates": [ 4.76667, 52.3 ] } }
 ,
